@@ -1,0 +1,3848 @@
+[
+    {
+        "video_frame": 0,
+        "time": 0.0,
+        "frequency": 0.0,
+        "decibel": -109.77
+    },
+    {
+        "video_frame": 0,
+        "time": 0.01,
+        "frequency": 6072.36,
+        "decibel": -114.02
+    },
+    {
+        "video_frame": 0,
+        "time": 0.02,
+        "frequency": 6072.36,
+        "decibel": -112.04
+    },
+    {
+        "video_frame": 0,
+        "time": 0.03,
+        "frequency": 6115.43,
+        "decibel": -113.48
+    },
+    {
+        "video_frame": 1,
+        "time": 0.04,
+        "frequency": 6029.3,
+        "decibel": -114.7
+    },
+    {
+        "video_frame": 1,
+        "time": 0.05,
+        "frequency": 6072.36,
+        "decibel": -106.97
+    },
+    {
+        "video_frame": 1,
+        "time": 0.06,
+        "frequency": 6072.36,
+        "decibel": -107.36
+    },
+    {
+        "video_frame": 2,
+        "time": 0.07,
+        "frequency": 6029.3,
+        "decibel": -107.23
+    },
+    {
+        "video_frame": 2,
+        "time": 0.08,
+        "frequency": 6072.36,
+        "decibel": -104.38
+    },
+    {
+        "video_frame": 2,
+        "time": 0.09,
+        "frequency": 0.0,
+        "decibel": -96.27
+    },
+    {
+        "video_frame": 2,
+        "time": 0.1,
+        "frequency": 0.0,
+        "decibel": -91.08
+    },
+    {
+        "video_frame": 3,
+        "time": 0.11,
+        "frequency": 0.0,
+        "decibel": -92.69
+    },
+    {
+        "video_frame": 3,
+        "time": 0.12,
+        "frequency": 0.0,
+        "decibel": -97.59
+    },
+    {
+        "video_frame": 3,
+        "time": 0.13,
+        "frequency": 6029.3,
+        "decibel": -106.5
+    },
+    {
+        "video_frame": 4,
+        "time": 0.14,
+        "frequency": 6029.3,
+        "decibel": -105.48
+    },
+    {
+        "video_frame": 4,
+        "time": 0.15,
+        "frequency": 6072.36,
+        "decibel": -111.69
+    },
+    {
+        "video_frame": 4,
+        "time": 0.16,
+        "frequency": 6072.36,
+        "decibel": -106.98
+    },
+    {
+        "video_frame": 5,
+        "time": 0.17,
+        "frequency": 6072.36,
+        "decibel": -109.67
+    },
+    {
+        "video_frame": 5,
+        "time": 0.18,
+        "frequency": 0.0,
+        "decibel": -101.75
+    },
+    {
+        "video_frame": 5,
+        "time": 0.19,
+        "frequency": 6115.43,
+        "decibel": -112.73
+    },
+    {
+        "video_frame": 5,
+        "time": 0.2,
+        "frequency": 3617.58,
+        "decibel": -116.38
+    },
+    {
+        "video_frame": 6,
+        "time": 0.21,
+        "frequency": 6072.36,
+        "decibel": -111.73
+    },
+    {
+        "video_frame": 6,
+        "time": 0.22,
+        "frequency": 6072.36,
+        "decibel": -106.82
+    },
+    {
+        "video_frame": 6,
+        "time": 0.229,
+        "frequency": 0.0,
+        "decibel": -107.05
+    },
+    {
+        "video_frame": 7,
+        "time": 0.239,
+        "frequency": 0.0,
+        "decibel": -115.95
+    },
+    {
+        "video_frame": 7,
+        "time": 0.249,
+        "frequency": 6072.36,
+        "decibel": -114.63
+    },
+    {
+        "video_frame": 7,
+        "time": 0.259,
+        "frequency": 6115.43,
+        "decibel": -114.08
+    },
+    {
+        "video_frame": 8,
+        "time": 0.269,
+        "frequency": 6115.43,
+        "decibel": -109.54
+    },
+    {
+        "video_frame": 8,
+        "time": 0.279,
+        "frequency": 0.0,
+        "decibel": -97.89
+    },
+    {
+        "video_frame": 8,
+        "time": 0.289,
+        "frequency": 0.0,
+        "decibel": -96.0
+    },
+    {
+        "video_frame": 8,
+        "time": 0.299,
+        "frequency": 0.0,
+        "decibel": -97.48
+    },
+    {
+        "video_frame": 9,
+        "time": 0.309,
+        "frequency": 0.0,
+        "decibel": -103.27
+    },
+    {
+        "video_frame": 9,
+        "time": 0.319,
+        "frequency": 0.0,
+        "decibel": -100.14
+    },
+    {
+        "video_frame": 9,
+        "time": 0.329,
+        "frequency": 0.0,
+        "decibel": -93.51
+    },
+    {
+        "video_frame": 10,
+        "time": 0.339,
+        "frequency": 0.0,
+        "decibel": -89.1
+    },
+    {
+        "video_frame": 10,
+        "time": 0.349,
+        "frequency": 0.0,
+        "decibel": -87.85
+    },
+    {
+        "video_frame": 10,
+        "time": 0.359,
+        "frequency": 0.0,
+        "decibel": -89.15
+    },
+    {
+        "video_frame": 11,
+        "time": 0.369,
+        "frequency": 0.0,
+        "decibel": -90.86
+    },
+    {
+        "video_frame": 11,
+        "time": 0.379,
+        "frequency": 0.0,
+        "decibel": -100.06
+    },
+    {
+        "video_frame": 11,
+        "time": 0.389,
+        "frequency": 0.0,
+        "decibel": -106.14
+    },
+    {
+        "video_frame": 11,
+        "time": 0.399,
+        "frequency": 0.0,
+        "decibel": -99.59
+    },
+    {
+        "video_frame": 12,
+        "time": 0.409,
+        "frequency": 0.0,
+        "decibel": -100.19
+    },
+    {
+        "video_frame": 12,
+        "time": 0.419,
+        "frequency": 6115.43,
+        "decibel": -113.05
+    },
+    {
+        "video_frame": 12,
+        "time": 0.429,
+        "frequency": 6072.36,
+        "decibel": -116.67
+    },
+    {
+        "video_frame": 13,
+        "time": 0.439,
+        "frequency": 6072.36,
+        "decibel": -109.46
+    },
+    {
+        "video_frame": 13,
+        "time": 0.449,
+        "frequency": 0.0,
+        "decibel": -103.24
+    },
+    {
+        "video_frame": 13,
+        "time": 0.459,
+        "frequency": 0.0,
+        "decibel": -101.18
+    },
+    {
+        "video_frame": 14,
+        "time": 0.469,
+        "frequency": 0.0,
+        "decibel": -100.31
+    },
+    {
+        "video_frame": 14,
+        "time": 0.479,
+        "frequency": 0.0,
+        "decibel": -98.66
+    },
+    {
+        "video_frame": 14,
+        "time": 0.489,
+        "frequency": 0.0,
+        "decibel": -87.13
+    },
+    {
+        "video_frame": 14,
+        "time": 0.499,
+        "frequency": 0.0,
+        "decibel": -83.03
+    },
+    {
+        "video_frame": 15,
+        "time": 0.509,
+        "frequency": 0.0,
+        "decibel": -82.05
+    },
+    {
+        "video_frame": 15,
+        "time": 0.519,
+        "frequency": 0.0,
+        "decibel": -82.15
+    },
+    {
+        "video_frame": 15,
+        "time": 0.529,
+        "frequency": 0.0,
+        "decibel": -83.22
+    },
+    {
+        "video_frame": 16,
+        "time": 0.539,
+        "frequency": 0.0,
+        "decibel": -86.63
+    },
+    {
+        "video_frame": 16,
+        "time": 0.549,
+        "frequency": 0.0,
+        "decibel": -90.08
+    },
+    {
+        "video_frame": 16,
+        "time": 0.559,
+        "frequency": 0.0,
+        "decibel": -96.87
+    },
+    {
+        "video_frame": 17,
+        "time": 0.569,
+        "frequency": 0.0,
+        "decibel": -100.04
+    },
+    {
+        "video_frame": 17,
+        "time": 0.579,
+        "frequency": 0.0,
+        "decibel": -102.99
+    },
+    {
+        "video_frame": 17,
+        "time": 0.589,
+        "frequency": 6115.43,
+        "decibel": -109.33
+    },
+    {
+        "video_frame": 17,
+        "time": 0.599,
+        "frequency": 6072.36,
+        "decibel": -106.2
+    },
+    {
+        "video_frame": 18,
+        "time": 0.609,
+        "frequency": 6115.43,
+        "decibel": -101.54
+    },
+    {
+        "video_frame": 18,
+        "time": 0.619,
+        "frequency": 6029.3,
+        "decibel": -106.47
+    },
+    {
+        "video_frame": 18,
+        "time": 0.629,
+        "frequency": 6029.3,
+        "decibel": -111.07
+    },
+    {
+        "video_frame": 19,
+        "time": 0.639,
+        "frequency": 6029.3,
+        "decibel": -109.0
+    },
+    {
+        "video_frame": 19,
+        "time": 0.649,
+        "frequency": 6029.3,
+        "decibel": -102.94
+    },
+    {
+        "video_frame": 19,
+        "time": 0.659,
+        "frequency": 0.0,
+        "decibel": -98.08
+    },
+    {
+        "video_frame": 20,
+        "time": 0.668,
+        "frequency": 0.0,
+        "decibel": -95.24
+    },
+    {
+        "video_frame": 20,
+        "time": 0.678,
+        "frequency": 0.0,
+        "decibel": -102.97
+    },
+    {
+        "video_frame": 20,
+        "time": 0.688,
+        "frequency": 5986.23,
+        "decibel": -102.73
+    },
+    {
+        "video_frame": 20,
+        "time": 0.698,
+        "frequency": 6029.3,
+        "decibel": -103.54
+    },
+    {
+        "video_frame": 21,
+        "time": 0.708,
+        "frequency": 5986.23,
+        "decibel": -103.49
+    },
+    {
+        "video_frame": 21,
+        "time": 0.718,
+        "frequency": 6072.36,
+        "decibel": -115.43
+    },
+    {
+        "video_frame": 21,
+        "time": 0.728,
+        "frequency": 6072.36,
+        "decibel": -111.29
+    },
+    {
+        "video_frame": 22,
+        "time": 0.738,
+        "frequency": 6029.3,
+        "decibel": -106.92
+    },
+    {
+        "video_frame": 22,
+        "time": 0.748,
+        "frequency": 6072.36,
+        "decibel": -117.56
+    },
+    {
+        "video_frame": 22,
+        "time": 0.758,
+        "frequency": 5770.9,
+        "decibel": -111.9
+    },
+    {
+        "video_frame": 23,
+        "time": 0.768,
+        "frequency": 0.0,
+        "decibel": -100.89
+    },
+    {
+        "video_frame": 23,
+        "time": 0.778,
+        "frequency": 0.0,
+        "decibel": -100.08
+    },
+    {
+        "video_frame": 23,
+        "time": 0.788,
+        "frequency": 0.0,
+        "decibel": -94.8
+    },
+    {
+        "video_frame": 23,
+        "time": 0.798,
+        "frequency": 0.0,
+        "decibel": -92.21
+    },
+    {
+        "video_frame": 24,
+        "time": 0.808,
+        "frequency": 0.0,
+        "decibel": -92.87
+    },
+    {
+        "video_frame": 24,
+        "time": 0.818,
+        "frequency": 0.0,
+        "decibel": -89.38
+    },
+    {
+        "video_frame": 24,
+        "time": 0.828,
+        "frequency": 0.0,
+        "decibel": -93.42
+    },
+    {
+        "video_frame": 25,
+        "time": 0.838,
+        "frequency": 6029.3,
+        "decibel": -106.92
+    },
+    {
+        "video_frame": 25,
+        "time": 0.848,
+        "frequency": 0.0,
+        "decibel": -98.73
+    },
+    {
+        "video_frame": 25,
+        "time": 0.858,
+        "frequency": 0.0,
+        "decibel": -95.48
+    },
+    {
+        "video_frame": 26,
+        "time": 0.868,
+        "frequency": 0.0,
+        "decibel": -102.8
+    },
+    {
+        "video_frame": 26,
+        "time": 0.878,
+        "frequency": 5986.23,
+        "decibel": -107.02
+    },
+    {
+        "video_frame": 26,
+        "time": 0.888,
+        "frequency": 0.0,
+        "decibel": -97.67
+    },
+    {
+        "video_frame": 26,
+        "time": 0.898,
+        "frequency": 0.0,
+        "decibel": -99.39
+    },
+    {
+        "video_frame": 27,
+        "time": 0.908,
+        "frequency": 0.0,
+        "decibel": -108.22
+    },
+    {
+        "video_frame": 27,
+        "time": 0.918,
+        "frequency": 5986.23,
+        "decibel": -112.45
+    },
+    {
+        "video_frame": 27,
+        "time": 0.928,
+        "frequency": 5986.23,
+        "decibel": -115.37
+    },
+    {
+        "video_frame": 28,
+        "time": 0.938,
+        "frequency": 0.0,
+        "decibel": -104.25
+    },
+    {
+        "video_frame": 28,
+        "time": 0.948,
+        "frequency": 0.0,
+        "decibel": -95.48
+    },
+    {
+        "video_frame": 28,
+        "time": 0.958,
+        "frequency": 0.0,
+        "decibel": -92.84
+    },
+    {
+        "video_frame": 29,
+        "time": 0.968,
+        "frequency": 0.0,
+        "decibel": -97.27
+    },
+    {
+        "video_frame": 29,
+        "time": 0.978,
+        "frequency": 5426.37,
+        "decibel": -113.37
+    },
+    {
+        "video_frame": 29,
+        "time": 0.988,
+        "frequency": 6029.3,
+        "decibel": -113.08
+    },
+    {
+        "video_frame": 29,
+        "time": 0.998,
+        "frequency": 6029.3,
+        "decibel": -112.36
+    },
+    {
+        "video_frame": 30,
+        "time": 1.008,
+        "frequency": 5986.23,
+        "decibel": -114.13
+    },
+    {
+        "video_frame": 30,
+        "time": 1.018,
+        "frequency": 5986.23,
+        "decibel": -116.84
+    },
+    {
+        "video_frame": 30,
+        "time": 1.028,
+        "frequency": 6029.3,
+        "decibel": -112.0
+    },
+    {
+        "video_frame": 31,
+        "time": 1.038,
+        "frequency": 6029.3,
+        "decibel": -113.47
+    },
+    {
+        "video_frame": 31,
+        "time": 1.048,
+        "frequency": 0.0,
+        "decibel": -112.0
+    },
+    {
+        "video_frame": 31,
+        "time": 1.058,
+        "frequency": 0.0,
+        "decibel": -100.29
+    },
+    {
+        "video_frame": 32,
+        "time": 1.068,
+        "frequency": 0.0,
+        "decibel": -95.3
+    },
+    {
+        "video_frame": 32,
+        "time": 1.078,
+        "frequency": 0.0,
+        "decibel": -94.55
+    },
+    {
+        "video_frame": 32,
+        "time": 1.088,
+        "frequency": 0.0,
+        "decibel": -101.35
+    },
+    {
+        "video_frame": 32,
+        "time": 1.098,
+        "frequency": 0.0,
+        "decibel": -108.67
+    },
+    {
+        "video_frame": 33,
+        "time": 1.107,
+        "frequency": 5986.23,
+        "decibel": -110.71
+    },
+    {
+        "video_frame": 33,
+        "time": 1.117,
+        "frequency": 6029.3,
+        "decibel": -111.39
+    },
+    {
+        "video_frame": 33,
+        "time": 1.127,
+        "frequency": 6029.3,
+        "decibel": -113.11
+    },
+    {
+        "video_frame": 34,
+        "time": 1.137,
+        "frequency": 6029.3,
+        "decibel": -109.12
+    },
+    {
+        "video_frame": 34,
+        "time": 1.147,
+        "frequency": 6029.3,
+        "decibel": -111.26
+    },
+    {
+        "video_frame": 34,
+        "time": 1.157,
+        "frequency": 5986.23,
+        "decibel": -107.5
+    },
+    {
+        "video_frame": 35,
+        "time": 1.167,
+        "frequency": 6029.3,
+        "decibel": -116.62
+    },
+    {
+        "video_frame": 35,
+        "time": 1.177,
+        "frequency": 6029.3,
+        "decibel": -110.47
+    },
+    {
+        "video_frame": 35,
+        "time": 1.187,
+        "frequency": 6029.3,
+        "decibel": -114.52
+    },
+    {
+        "video_frame": 35,
+        "time": 1.197,
+        "frequency": 0.0,
+        "decibel": -105.42
+    },
+    {
+        "video_frame": 36,
+        "time": 1.207,
+        "frequency": 0.0,
+        "decibel": -104.34
+    },
+    {
+        "video_frame": 36,
+        "time": 1.217,
+        "frequency": 6029.3,
+        "decibel": -110.62
+    },
+    {
+        "video_frame": 36,
+        "time": 1.227,
+        "frequency": 6546.09,
+        "decibel": -114.74
+    },
+    {
+        "video_frame": 37,
+        "time": 1.237,
+        "frequency": 6029.3,
+        "decibel": -110.66
+    },
+    {
+        "video_frame": 37,
+        "time": 1.247,
+        "frequency": 6072.36,
+        "decibel": -110.02
+    },
+    {
+        "video_frame": 37,
+        "time": 1.257,
+        "frequency": 0.0,
+        "decibel": -92.47
+    },
+    {
+        "video_frame": 38,
+        "time": 1.267,
+        "frequency": 0.0,
+        "decibel": -84.83
+    },
+    {
+        "video_frame": 38,
+        "time": 1.277,
+        "frequency": 0.0,
+        "decibel": -83.21
+    },
+    {
+        "video_frame": 38,
+        "time": 1.287,
+        "frequency": 0.0,
+        "decibel": -84.38
+    },
+    {
+        "video_frame": 38,
+        "time": 1.297,
+        "frequency": 0.0,
+        "decibel": -90.36
+    },
+    {
+        "video_frame": 39,
+        "time": 1.307,
+        "frequency": 0.0,
+        "decibel": -98.44
+    },
+    {
+        "video_frame": 39,
+        "time": 1.317,
+        "frequency": 6072.36,
+        "decibel": -112.45
+    },
+    {
+        "video_frame": 39,
+        "time": 1.327,
+        "frequency": 6072.36,
+        "decibel": -112.53
+    },
+    {
+        "video_frame": 40,
+        "time": 1.337,
+        "frequency": 6287.7,
+        "decibel": -109.7
+    },
+    {
+        "video_frame": 40,
+        "time": 1.347,
+        "frequency": 6072.36,
+        "decibel": -111.48
+    },
+    {
+        "video_frame": 40,
+        "time": 1.357,
+        "frequency": 6072.36,
+        "decibel": -116.29
+    },
+    {
+        "video_frame": 41,
+        "time": 1.367,
+        "frequency": 6029.3,
+        "decibel": -115.22
+    },
+    {
+        "video_frame": 41,
+        "time": 1.377,
+        "frequency": 0.0,
+        "decibel": -105.22
+    },
+    {
+        "video_frame": 41,
+        "time": 1.387,
+        "frequency": 0.0,
+        "decibel": -105.99
+    },
+    {
+        "video_frame": 41,
+        "time": 1.397,
+        "frequency": 0.0,
+        "decibel": -106.98
+    },
+    {
+        "video_frame": 42,
+        "time": 1.407,
+        "frequency": 0.0,
+        "decibel": -118.98
+    },
+    {
+        "video_frame": 42,
+        "time": 1.417,
+        "frequency": 6029.3,
+        "decibel": -113.15
+    },
+    {
+        "video_frame": 42,
+        "time": 1.427,
+        "frequency": 0.0,
+        "decibel": -108.07
+    },
+    {
+        "video_frame": 43,
+        "time": 1.437,
+        "frequency": 0.0,
+        "decibel": -96.71
+    },
+    {
+        "video_frame": 43,
+        "time": 1.447,
+        "frequency": 0.0,
+        "decibel": -94.87
+    },
+    {
+        "video_frame": 43,
+        "time": 1.457,
+        "frequency": 0.0,
+        "decibel": -93.64
+    },
+    {
+        "video_frame": 44,
+        "time": 1.467,
+        "frequency": 0.0,
+        "decibel": -94.68
+    },
+    {
+        "video_frame": 44,
+        "time": 1.477,
+        "frequency": 0.0,
+        "decibel": -102.64
+    },
+    {
+        "video_frame": 44,
+        "time": 1.487,
+        "frequency": 0.0,
+        "decibel": -110.03
+    },
+    {
+        "video_frame": 44,
+        "time": 1.497,
+        "frequency": 6029.3,
+        "decibel": -110.6
+    },
+    {
+        "video_frame": 45,
+        "time": 1.507,
+        "frequency": 6072.36,
+        "decibel": -112.42
+    },
+    {
+        "video_frame": 45,
+        "time": 1.517,
+        "frequency": 0.0,
+        "decibel": -108.95
+    },
+    {
+        "video_frame": 45,
+        "time": 1.527,
+        "frequency": 0.0,
+        "decibel": -95.78
+    },
+    {
+        "video_frame": 46,
+        "time": 1.537,
+        "frequency": 0.0,
+        "decibel": -90.91
+    },
+    {
+        "video_frame": 46,
+        "time": 1.546,
+        "frequency": 0.0,
+        "decibel": -90.06
+    },
+    {
+        "video_frame": 46,
+        "time": 1.556,
+        "frequency": 0.0,
+        "decibel": -90.87
+    },
+    {
+        "video_frame": 46,
+        "time": 1.566,
+        "frequency": 0.0,
+        "decibel": -94.7
+    },
+    {
+        "video_frame": 47,
+        "time": 1.576,
+        "frequency": 0.0,
+        "decibel": -102.61
+    },
+    {
+        "video_frame": 47,
+        "time": 1.586,
+        "frequency": 6072.36,
+        "decibel": -110.27
+    },
+    {
+        "video_frame": 47,
+        "time": 1.596,
+        "frequency": 6072.36,
+        "decibel": -111.69
+    },
+    {
+        "video_frame": 48,
+        "time": 1.606,
+        "frequency": 0.0,
+        "decibel": -103.21
+    },
+    {
+        "video_frame": 48,
+        "time": 1.616,
+        "frequency": 0.0,
+        "decibel": -94.3
+    },
+    {
+        "video_frame": 48,
+        "time": 1.626,
+        "frequency": 0.0,
+        "decibel": -102.52
+    },
+    {
+        "video_frame": 49,
+        "time": 1.636,
+        "frequency": 6072.36,
+        "decibel": -109.1
+    },
+    {
+        "video_frame": 49,
+        "time": 1.646,
+        "frequency": 5167.97,
+        "decibel": -115.22
+    },
+    {
+        "video_frame": 49,
+        "time": 1.656,
+        "frequency": 6072.36,
+        "decibel": -113.23
+    },
+    {
+        "video_frame": 49,
+        "time": 1.666,
+        "frequency": 5727.83,
+        "decibel": -115.29
+    },
+    {
+        "video_frame": 50,
+        "time": 1.676,
+        "frequency": 6072.36,
+        "decibel": -115.92
+    },
+    {
+        "video_frame": 50,
+        "time": 1.686,
+        "frequency": 6072.36,
+        "decibel": -109.49
+    },
+    {
+        "video_frame": 50,
+        "time": 1.696,
+        "frequency": 6072.36,
+        "decibel": -107.13
+    },
+    {
+        "video_frame": 51,
+        "time": 1.706,
+        "frequency": 6072.36,
+        "decibel": -112.77
+    },
+    {
+        "video_frame": 51,
+        "time": 1.716,
+        "frequency": 6115.43,
+        "decibel": -116.27
+    },
+    {
+        "video_frame": 51,
+        "time": 1.726,
+        "frequency": 0.0,
+        "decibel": -106.77
+    },
+    {
+        "video_frame": 52,
+        "time": 1.736,
+        "frequency": 0.0,
+        "decibel": -102.5
+    },
+    {
+        "video_frame": 52,
+        "time": 1.746,
+        "frequency": 0.0,
+        "decibel": -105.76
+    },
+    {
+        "video_frame": 52,
+        "time": 1.756,
+        "frequency": 0.0,
+        "decibel": -104.64
+    },
+    {
+        "video_frame": 52,
+        "time": 1.766,
+        "frequency": 6072.36,
+        "decibel": -112.69
+    },
+    {
+        "video_frame": 53,
+        "time": 1.776,
+        "frequency": 6072.36,
+        "decibel": -109.06
+    },
+    {
+        "video_frame": 53,
+        "time": 1.786,
+        "frequency": 6072.36,
+        "decibel": -108.47
+    },
+    {
+        "video_frame": 53,
+        "time": 1.796,
+        "frequency": 6072.36,
+        "decibel": -114.09
+    },
+    {
+        "video_frame": 54,
+        "time": 1.806,
+        "frequency": 6029.3,
+        "decibel": -110.49
+    },
+    {
+        "video_frame": 54,
+        "time": 1.816,
+        "frequency": 6029.3,
+        "decibel": -107.38
+    },
+    {
+        "video_frame": 54,
+        "time": 1.826,
+        "frequency": 6029.3,
+        "decibel": -112.44
+    },
+    {
+        "video_frame": 55,
+        "time": 1.836,
+        "frequency": 6029.3,
+        "decibel": -110.82
+    },
+    {
+        "video_frame": 55,
+        "time": 1.846,
+        "frequency": 6029.3,
+        "decibel": -108.26
+    },
+    {
+        "video_frame": 55,
+        "time": 1.856,
+        "frequency": 6072.36,
+        "decibel": -110.83
+    },
+    {
+        "video_frame": 55,
+        "time": 1.866,
+        "frequency": 6029.3,
+        "decibel": -117.24
+    },
+    {
+        "video_frame": 56,
+        "time": 1.876,
+        "frequency": 6029.3,
+        "decibel": -111.64
+    },
+    {
+        "video_frame": 56,
+        "time": 1.886,
+        "frequency": 6029.3,
+        "decibel": -111.49
+    },
+    {
+        "video_frame": 56,
+        "time": 1.896,
+        "frequency": 6072.36,
+        "decibel": -114.13
+    },
+    {
+        "video_frame": 57,
+        "time": 1.906,
+        "frequency": 6072.36,
+        "decibel": -108.47
+    },
+    {
+        "video_frame": 57,
+        "time": 1.916,
+        "frequency": 6072.36,
+        "decibel": -109.01
+    },
+    {
+        "video_frame": 57,
+        "time": 1.926,
+        "frequency": 6072.36,
+        "decibel": -106.84
+    },
+    {
+        "video_frame": 58,
+        "time": 1.936,
+        "frequency": 6072.36,
+        "decibel": -112.36
+    },
+    {
+        "video_frame": 58,
+        "time": 1.946,
+        "frequency": 5813.96,
+        "decibel": -116.55
+    },
+    {
+        "video_frame": 58,
+        "time": 1.956,
+        "frequency": 6029.3,
+        "decibel": -114.7
+    },
+    {
+        "video_frame": 58,
+        "time": 1.966,
+        "frequency": 0.0,
+        "decibel": -106.54
+    },
+    {
+        "video_frame": 59,
+        "time": 1.976,
+        "frequency": 0.0,
+        "decibel": -98.37
+    },
+    {
+        "video_frame": 59,
+        "time": 1.985,
+        "frequency": 0.0,
+        "decibel": -90.63
+    },
+    {
+        "video_frame": 59,
+        "time": 1.995,
+        "frequency": 0.0,
+        "decibel": -90.02
+    },
+    {
+        "video_frame": 60,
+        "time": 2.005,
+        "frequency": 0.0,
+        "decibel": -94.22
+    },
+    {
+        "video_frame": 60,
+        "time": 2.015,
+        "frequency": 0.0,
+        "decibel": -97.41
+    },
+    {
+        "video_frame": 60,
+        "time": 2.025,
+        "frequency": 6029.3,
+        "decibel": -111.99
+    },
+    {
+        "video_frame": 61,
+        "time": 2.035,
+        "frequency": 6029.3,
+        "decibel": -107.37
+    },
+    {
+        "video_frame": 61,
+        "time": 2.045,
+        "frequency": 5986.23,
+        "decibel": -103.29
+    },
+    {
+        "video_frame": 61,
+        "time": 2.055,
+        "frequency": 6029.3,
+        "decibel": -104.96
+    },
+    {
+        "video_frame": 61,
+        "time": 2.065,
+        "frequency": 6029.3,
+        "decibel": -108.14
+    },
+    {
+        "video_frame": 62,
+        "time": 2.075,
+        "frequency": 0.0,
+        "decibel": -99.93
+    },
+    {
+        "video_frame": 62,
+        "time": 2.085,
+        "frequency": 0.0,
+        "decibel": -106.69
+    },
+    {
+        "video_frame": 62,
+        "time": 2.095,
+        "frequency": 6029.3,
+        "decibel": -110.58
+    },
+    {
+        "video_frame": 63,
+        "time": 2.105,
+        "frequency": 6029.3,
+        "decibel": -107.49
+    },
+    {
+        "video_frame": 63,
+        "time": 2.115,
+        "frequency": 6029.3,
+        "decibel": -110.76
+    },
+    {
+        "video_frame": 63,
+        "time": 2.125,
+        "frequency": 0.0,
+        "decibel": -103.25
+    },
+    {
+        "video_frame": 64,
+        "time": 2.135,
+        "frequency": 0.0,
+        "decibel": -109.19
+    },
+    {
+        "video_frame": 64,
+        "time": 2.145,
+        "frequency": 6029.3,
+        "decibel": -105.8
+    },
+    {
+        "video_frame": 64,
+        "time": 2.155,
+        "frequency": 6029.3,
+        "decibel": -107.09
+    },
+    {
+        "video_frame": 64,
+        "time": 2.165,
+        "frequency": 6072.36,
+        "decibel": -108.7
+    },
+    {
+        "video_frame": 65,
+        "time": 2.175,
+        "frequency": 6029.3,
+        "decibel": -106.55
+    },
+    {
+        "video_frame": 65,
+        "time": 2.185,
+        "frequency": 5986.23,
+        "decibel": -107.96
+    },
+    {
+        "video_frame": 65,
+        "time": 2.195,
+        "frequency": 6072.36,
+        "decibel": -109.56
+    },
+    {
+        "video_frame": 66,
+        "time": 2.205,
+        "frequency": 6029.3,
+        "decibel": -107.18
+    },
+    {
+        "video_frame": 66,
+        "time": 2.215,
+        "frequency": 0.0,
+        "decibel": -106.23
+    },
+    {
+        "video_frame": 66,
+        "time": 2.225,
+        "frequency": 0.0,
+        "decibel": -103.17
+    },
+    {
+        "video_frame": 67,
+        "time": 2.235,
+        "frequency": 6115.43,
+        "decibel": -101.1
+    },
+    {
+        "video_frame": 67,
+        "time": 2.245,
+        "frequency": 0.0,
+        "decibel": -95.5
+    },
+    {
+        "video_frame": 67,
+        "time": 2.255,
+        "frequency": 0.0,
+        "decibel": -99.59
+    },
+    {
+        "video_frame": 67,
+        "time": 2.265,
+        "frequency": 6072.36,
+        "decibel": -104.91
+    },
+    {
+        "video_frame": 68,
+        "time": 2.275,
+        "frequency": 6029.3,
+        "decibel": -106.27
+    },
+    {
+        "video_frame": 68,
+        "time": 2.285,
+        "frequency": 6029.3,
+        "decibel": -114.09
+    },
+    {
+        "video_frame": 68,
+        "time": 2.295,
+        "frequency": 6029.3,
+        "decibel": -105.91
+    },
+    {
+        "video_frame": 69,
+        "time": 2.305,
+        "frequency": 6029.3,
+        "decibel": -109.57
+    },
+    {
+        "video_frame": 69,
+        "time": 2.315,
+        "frequency": 6029.3,
+        "decibel": -108.25
+    },
+    {
+        "video_frame": 69,
+        "time": 2.325,
+        "frequency": 5986.23,
+        "decibel": -102.13
+    },
+    {
+        "video_frame": 70,
+        "time": 2.335,
+        "frequency": 0.0,
+        "decibel": -101.8
+    },
+    {
+        "video_frame": 70,
+        "time": 2.345,
+        "frequency": 0.0,
+        "decibel": -105.01
+    },
+    {
+        "video_frame": 70,
+        "time": 2.355,
+        "frequency": 5986.23,
+        "decibel": -106.1
+    },
+    {
+        "video_frame": 70,
+        "time": 2.365,
+        "frequency": 5986.23,
+        "decibel": -102.91
+    },
+    {
+        "video_frame": 71,
+        "time": 2.375,
+        "frequency": 5986.23,
+        "decibel": -105.0
+    },
+    {
+        "video_frame": 71,
+        "time": 2.385,
+        "frequency": 0.0,
+        "decibel": -103.11
+    },
+    {
+        "video_frame": 71,
+        "time": 2.395,
+        "frequency": 0.0,
+        "decibel": -96.63
+    },
+    {
+        "video_frame": 72,
+        "time": 2.405,
+        "frequency": 0.0,
+        "decibel": -98.1
+    },
+    {
+        "video_frame": 72,
+        "time": 2.415,
+        "frequency": 0.0,
+        "decibel": -96.08
+    },
+    {
+        "video_frame": 72,
+        "time": 2.424,
+        "frequency": 0.0,
+        "decibel": -89.66
+    },
+    {
+        "video_frame": 73,
+        "time": 2.434,
+        "frequency": 0.0,
+        "decibel": -87.99
+    },
+    {
+        "video_frame": 73,
+        "time": 2.444,
+        "frequency": 0.0,
+        "decibel": -83.62
+    },
+    {
+        "video_frame": 73,
+        "time": 2.454,
+        "frequency": 0.0,
+        "decibel": -80.89
+    },
+    {
+        "video_frame": 73,
+        "time": 2.464,
+        "frequency": 0.0,
+        "decibel": -83.81
+    },
+    {
+        "video_frame": 74,
+        "time": 2.474,
+        "frequency": 0.0,
+        "decibel": -85.57
+    },
+    {
+        "video_frame": 74,
+        "time": 2.484,
+        "frequency": 0.0,
+        "decibel": -88.4
+    },
+    {
+        "video_frame": 74,
+        "time": 2.494,
+        "frequency": 0.0,
+        "decibel": -103.17
+    },
+    {
+        "video_frame": 75,
+        "time": 2.504,
+        "frequency": 6029.3,
+        "decibel": -109.63
+    },
+    {
+        "video_frame": 75,
+        "time": 2.514,
+        "frequency": 6029.3,
+        "decibel": -117.35
+    },
+    {
+        "video_frame": 75,
+        "time": 2.524,
+        "frequency": 0.0,
+        "decibel": -105.46
+    },
+    {
+        "video_frame": 76,
+        "time": 2.534,
+        "frequency": 0.0,
+        "decibel": -106.38
+    },
+    {
+        "video_frame": 76,
+        "time": 2.544,
+        "frequency": 6029.3,
+        "decibel": -107.61
+    },
+    {
+        "video_frame": 76,
+        "time": 2.554,
+        "frequency": 0.0,
+        "decibel": -106.61
+    },
+    {
+        "video_frame": 76,
+        "time": 2.564,
+        "frequency": 0.0,
+        "decibel": -103.52
+    },
+    {
+        "video_frame": 77,
+        "time": 2.574,
+        "frequency": 0.0,
+        "decibel": -108.48
+    },
+    {
+        "video_frame": 77,
+        "time": 2.584,
+        "frequency": 6029.3,
+        "decibel": -109.3
+    },
+    {
+        "video_frame": 77,
+        "time": 2.594,
+        "frequency": 0.0,
+        "decibel": -106.61
+    },
+    {
+        "video_frame": 78,
+        "time": 2.604,
+        "frequency": 0.0,
+        "decibel": -99.25
+    },
+    {
+        "video_frame": 78,
+        "time": 2.614,
+        "frequency": 0.0,
+        "decibel": -98.03
+    },
+    {
+        "video_frame": 78,
+        "time": 2.624,
+        "frequency": 6029.3,
+        "decibel": -112.63
+    },
+    {
+        "video_frame": 79,
+        "time": 2.634,
+        "frequency": 0.0,
+        "decibel": -116.82
+    },
+    {
+        "video_frame": 79,
+        "time": 2.644,
+        "frequency": 0.0,
+        "decibel": -102.12
+    },
+    {
+        "video_frame": 79,
+        "time": 2.654,
+        "frequency": 0.0,
+        "decibel": -98.7
+    },
+    {
+        "video_frame": 79,
+        "time": 2.664,
+        "frequency": 0.0,
+        "decibel": -101.73
+    },
+    {
+        "video_frame": 80,
+        "time": 2.674,
+        "frequency": 0.0,
+        "decibel": -106.24
+    },
+    {
+        "video_frame": 80,
+        "time": 2.684,
+        "frequency": 0.0,
+        "decibel": -100.02
+    },
+    {
+        "video_frame": 80,
+        "time": 2.694,
+        "frequency": 0.0,
+        "decibel": -94.37
+    },
+    {
+        "video_frame": 81,
+        "time": 2.704,
+        "frequency": 0.0,
+        "decibel": -95.16
+    },
+    {
+        "video_frame": 81,
+        "time": 2.714,
+        "frequency": 0.0,
+        "decibel": -107.35
+    },
+    {
+        "video_frame": 81,
+        "time": 2.724,
+        "frequency": 6029.3,
+        "decibel": -116.09
+    },
+    {
+        "video_frame": 82,
+        "time": 2.734,
+        "frequency": 6029.3,
+        "decibel": -115.68
+    },
+    {
+        "video_frame": 82,
+        "time": 2.744,
+        "frequency": 0.0,
+        "decibel": -116.84
+    },
+    {
+        "video_frame": 82,
+        "time": 2.754,
+        "frequency": 0.0,
+        "decibel": -116.24
+    },
+    {
+        "video_frame": 82,
+        "time": 2.764,
+        "frequency": 6029.3,
+        "decibel": -116.3
+    },
+    {
+        "video_frame": 83,
+        "time": 2.774,
+        "frequency": 6029.3,
+        "decibel": -118.88
+    },
+    {
+        "video_frame": 83,
+        "time": 2.784,
+        "frequency": 6029.3,
+        "decibel": -109.37
+    },
+    {
+        "video_frame": 83,
+        "time": 2.794,
+        "frequency": 5986.23,
+        "decibel": -106.67
+    },
+    {
+        "video_frame": 84,
+        "time": 2.804,
+        "frequency": 0.0,
+        "decibel": -109.31
+    },
+    {
+        "video_frame": 84,
+        "time": 2.814,
+        "frequency": 0.0,
+        "decibel": -102.29
+    },
+    {
+        "video_frame": 84,
+        "time": 2.824,
+        "frequency": 0.0,
+        "decibel": -104.9
+    },
+    {
+        "video_frame": 85,
+        "time": 2.834,
+        "frequency": 0.0,
+        "decibel": -102.26
+    },
+    {
+        "video_frame": 85,
+        "time": 2.844,
+        "frequency": 0.0,
+        "decibel": -102.74
+    },
+    {
+        "video_frame": 85,
+        "time": 2.854,
+        "frequency": 0.0,
+        "decibel": -103.05
+    },
+    {
+        "video_frame": 85,
+        "time": 2.863,
+        "frequency": 0.0,
+        "decibel": -95.86
+    },
+    {
+        "video_frame": 86,
+        "time": 2.873,
+        "frequency": 0.0,
+        "decibel": -102.08
+    },
+    {
+        "video_frame": 86,
+        "time": 2.883,
+        "frequency": 6072.36,
+        "decibel": -110.75
+    },
+    {
+        "video_frame": 86,
+        "time": 2.893,
+        "frequency": 6072.36,
+        "decibel": -109.92
+    },
+    {
+        "video_frame": 87,
+        "time": 2.903,
+        "frequency": 6029.3,
+        "decibel": -112.56
+    },
+    {
+        "video_frame": 87,
+        "time": 2.913,
+        "frequency": 6029.3,
+        "decibel": -110.11
+    },
+    {
+        "video_frame": 87,
+        "time": 2.923,
+        "frequency": 0.0,
+        "decibel": -105.02
+    },
+    {
+        "video_frame": 88,
+        "time": 2.933,
+        "frequency": 0.0,
+        "decibel": -98.97
+    },
+    {
+        "video_frame": 88,
+        "time": 2.943,
+        "frequency": 0.0,
+        "decibel": -106.1
+    },
+    {
+        "video_frame": 88,
+        "time": 2.953,
+        "frequency": 6029.3,
+        "decibel": -111.07
+    },
+    {
+        "video_frame": 88,
+        "time": 2.963,
+        "frequency": 0.0,
+        "decibel": -106.82
+    },
+    {
+        "video_frame": 89,
+        "time": 2.973,
+        "frequency": 0.0,
+        "decibel": -95.88
+    },
+    {
+        "video_frame": 89,
+        "time": 2.983,
+        "frequency": 0.0,
+        "decibel": -94.38
+    },
+    {
+        "video_frame": 89,
+        "time": 2.993,
+        "frequency": 0.0,
+        "decibel": -99.67
+    },
+    {
+        "video_frame": 90,
+        "time": 3.003,
+        "frequency": 6029.3,
+        "decibel": -112.05
+    },
+    {
+        "video_frame": 90,
+        "time": 3.013,
+        "frequency": 6029.3,
+        "decibel": -112.25
+    },
+    {
+        "video_frame": 90,
+        "time": 3.023,
+        "frequency": 0.0,
+        "decibel": -111.41
+    },
+    {
+        "video_frame": 90,
+        "time": 3.033,
+        "frequency": 0.0,
+        "decibel": -100.23
+    },
+    {
+        "video_frame": 91,
+        "time": 3.043,
+        "frequency": 0.0,
+        "decibel": -98.23
+    },
+    {
+        "video_frame": 91,
+        "time": 3.053,
+        "frequency": 0.0,
+        "decibel": -96.27
+    },
+    {
+        "video_frame": 91,
+        "time": 3.063,
+        "frequency": 0.0,
+        "decibel": -106.32
+    },
+    {
+        "video_frame": 92,
+        "time": 3.073,
+        "frequency": 6029.3,
+        "decibel": -108.53
+    },
+    {
+        "video_frame": 92,
+        "time": 3.083,
+        "frequency": 6072.36,
+        "decibel": -108.97
+    },
+    {
+        "video_frame": 92,
+        "time": 3.093,
+        "frequency": 0.0,
+        "decibel": -110.94
+    },
+    {
+        "video_frame": 93,
+        "time": 3.103,
+        "frequency": 0.0,
+        "decibel": -102.93
+    },
+    {
+        "video_frame": 93,
+        "time": 3.113,
+        "frequency": 0.0,
+        "decibel": -110.34
+    },
+    {
+        "video_frame": 93,
+        "time": 3.123,
+        "frequency": 0.0,
+        "decibel": -105.11
+    },
+    {
+        "video_frame": 93,
+        "time": 3.133,
+        "frequency": 0.0,
+        "decibel": -110.45
+    },
+    {
+        "video_frame": 94,
+        "time": 3.143,
+        "frequency": 6029.3,
+        "decibel": -111.36
+    },
+    {
+        "video_frame": 94,
+        "time": 3.153,
+        "frequency": 6029.3,
+        "decibel": -117.5
+    },
+    {
+        "video_frame": 94,
+        "time": 3.163,
+        "frequency": 0.0,
+        "decibel": -110.88
+    },
+    {
+        "video_frame": 95,
+        "time": 3.173,
+        "frequency": 6029.3,
+        "decibel": -113.57
+    },
+    {
+        "video_frame": 95,
+        "time": 3.183,
+        "frequency": 5986.23,
+        "decibel": -118.44
+    },
+    {
+        "video_frame": 95,
+        "time": 3.193,
+        "frequency": 6029.3,
+        "decibel": -117.04
+    },
+    {
+        "video_frame": 96,
+        "time": 3.203,
+        "frequency": 0.0,
+        "decibel": -111.7
+    },
+    {
+        "video_frame": 96,
+        "time": 3.213,
+        "frequency": 5986.23,
+        "decibel": -111.81
+    },
+    {
+        "video_frame": 96,
+        "time": 3.223,
+        "frequency": 6029.3,
+        "decibel": -114.09
+    },
+    {
+        "video_frame": 96,
+        "time": 3.233,
+        "frequency": 5986.23,
+        "decibel": -114.09
+    },
+    {
+        "video_frame": 97,
+        "time": 3.243,
+        "frequency": 6029.3,
+        "decibel": -108.99
+    },
+    {
+        "video_frame": 97,
+        "time": 3.253,
+        "frequency": 6029.3,
+        "decibel": -112.82
+    },
+    {
+        "video_frame": 97,
+        "time": 3.263,
+        "frequency": 7278.22,
+        "decibel": -118.9
+    },
+    {
+        "video_frame": 98,
+        "time": 3.273,
+        "frequency": 7278.22,
+        "decibel": -118.83
+    },
+    {
+        "video_frame": 98,
+        "time": 3.283,
+        "frequency": 6029.3,
+        "decibel": -115.21
+    },
+    {
+        "video_frame": 98,
+        "time": 3.293,
+        "frequency": 0.0,
+        "decibel": -114.46
+    },
+    {
+        "video_frame": 99,
+        "time": 3.302,
+        "frequency": 0.0,
+        "decibel": -114.52
+    },
+    {
+        "video_frame": 99,
+        "time": 3.312,
+        "frequency": 6072.36,
+        "decibel": -116.97
+    },
+    {
+        "video_frame": 99,
+        "time": 3.322,
+        "frequency": 0.0,
+        "decibel": -104.1
+    },
+    {
+        "video_frame": 99,
+        "time": 3.332,
+        "frequency": 0.0,
+        "decibel": -100.87
+    },
+    {
+        "video_frame": 100,
+        "time": 3.342,
+        "frequency": 0.0,
+        "decibel": -104.89
+    },
+    {
+        "video_frame": 100,
+        "time": 3.352,
+        "frequency": 0.0,
+        "decibel": -112.74
+    },
+    {
+        "video_frame": 100,
+        "time": 3.362,
+        "frequency": 6072.36,
+        "decibel": -109.69
+    },
+    {
+        "video_frame": 101,
+        "time": 3.372,
+        "frequency": 6072.36,
+        "decibel": -109.29
+    },
+    {
+        "video_frame": 101,
+        "time": 3.382,
+        "frequency": 6072.36,
+        "decibel": -111.05
+    },
+    {
+        "video_frame": 101,
+        "time": 3.392,
+        "frequency": 6115.43,
+        "decibel": -111.84
+    },
+    {
+        "video_frame": 102,
+        "time": 3.402,
+        "frequency": 6072.36,
+        "decibel": -115.51
+    },
+    {
+        "video_frame": 102,
+        "time": 3.412,
+        "frequency": 0.0,
+        "decibel": -104.84
+    },
+    {
+        "video_frame": 102,
+        "time": 3.422,
+        "frequency": 0.0,
+        "decibel": -96.78
+    },
+    {
+        "video_frame": 102,
+        "time": 3.432,
+        "frequency": 0.0,
+        "decibel": -97.47
+    },
+    {
+        "video_frame": 103,
+        "time": 3.442,
+        "frequency": 0.0,
+        "decibel": -93.24
+    },
+    {
+        "video_frame": 103,
+        "time": 3.452,
+        "frequency": 0.0,
+        "decibel": -97.85
+    },
+    {
+        "video_frame": 103,
+        "time": 3.462,
+        "frequency": 0.0,
+        "decibel": -106.93
+    },
+    {
+        "video_frame": 104,
+        "time": 3.472,
+        "frequency": 6072.36,
+        "decibel": -110.37
+    },
+    {
+        "video_frame": 104,
+        "time": 3.482,
+        "frequency": 6029.3,
+        "decibel": -106.72
+    },
+    {
+        "video_frame": 104,
+        "time": 3.492,
+        "frequency": 0.0,
+        "decibel": -104.18
+    },
+    {
+        "video_frame": 105,
+        "time": 3.502,
+        "frequency": 6072.36,
+        "decibel": -106.91
+    },
+    {
+        "video_frame": 105,
+        "time": 3.512,
+        "frequency": 6072.36,
+        "decibel": -114.42
+    },
+    {
+        "video_frame": 105,
+        "time": 3.522,
+        "frequency": 0.0,
+        "decibel": -113.19
+    },
+    {
+        "video_frame": 105,
+        "time": 3.532,
+        "frequency": 6072.36,
+        "decibel": -105.11
+    },
+    {
+        "video_frame": 106,
+        "time": 3.542,
+        "frequency": 6072.36,
+        "decibel": -101.67
+    },
+    {
+        "video_frame": 106,
+        "time": 3.552,
+        "frequency": 6072.36,
+        "decibel": -104.58
+    },
+    {
+        "video_frame": 106,
+        "time": 3.562,
+        "frequency": 6072.36,
+        "decibel": -109.4
+    },
+    {
+        "video_frame": 107,
+        "time": 3.572,
+        "frequency": 6029.3,
+        "decibel": -102.24
+    },
+    {
+        "video_frame": 107,
+        "time": 3.582,
+        "frequency": 6029.3,
+        "decibel": -100.48
+    },
+    {
+        "video_frame": 107,
+        "time": 3.592,
+        "frequency": 6029.3,
+        "decibel": -110.78
+    },
+    {
+        "video_frame": 108,
+        "time": 3.602,
+        "frequency": 6029.3,
+        "decibel": -108.88
+    },
+    {
+        "video_frame": 108,
+        "time": 3.612,
+        "frequency": 0.0,
+        "decibel": -101.79
+    },
+    {
+        "video_frame": 108,
+        "time": 3.622,
+        "frequency": 0.0,
+        "decibel": -98.43
+    },
+    {
+        "video_frame": 108,
+        "time": 3.632,
+        "frequency": 0.0,
+        "decibel": -96.79
+    },
+    {
+        "video_frame": 109,
+        "time": 3.642,
+        "frequency": 0.0,
+        "decibel": -94.92
+    },
+    {
+        "video_frame": 109,
+        "time": 3.652,
+        "frequency": 0.0,
+        "decibel": -94.36
+    },
+    {
+        "video_frame": 109,
+        "time": 3.662,
+        "frequency": 0.0,
+        "decibel": -96.18
+    },
+    {
+        "video_frame": 110,
+        "time": 3.672,
+        "frequency": 6115.43,
+        "decibel": -101.98
+    },
+    {
+        "video_frame": 110,
+        "time": 3.682,
+        "frequency": 0.0,
+        "decibel": -109.84
+    },
+    {
+        "video_frame": 110,
+        "time": 3.692,
+        "frequency": 0.0,
+        "decibel": -97.26
+    },
+    {
+        "video_frame": 111,
+        "time": 3.702,
+        "frequency": 0.0,
+        "decibel": -97.45
+    },
+    {
+        "video_frame": 111,
+        "time": 3.712,
+        "frequency": 6072.36,
+        "decibel": -97.44
+    },
+    {
+        "video_frame": 111,
+        "time": 3.722,
+        "frequency": 0.0,
+        "decibel": -95.82
+    },
+    {
+        "video_frame": 111,
+        "time": 3.732,
+        "frequency": 0.0,
+        "decibel": -96.27
+    },
+    {
+        "video_frame": 112,
+        "time": 3.741,
+        "frequency": 0.0,
+        "decibel": -98.7
+    },
+    {
+        "video_frame": 112,
+        "time": 3.751,
+        "frequency": 6072.36,
+        "decibel": -103.88
+    },
+    {
+        "video_frame": 112,
+        "time": 3.761,
+        "frequency": 6072.36,
+        "decibel": -104.28
+    },
+    {
+        "video_frame": 113,
+        "time": 3.771,
+        "frequency": 6029.3,
+        "decibel": -107.38
+    },
+    {
+        "video_frame": 113,
+        "time": 3.781,
+        "frequency": 5986.23,
+        "decibel": -107.83
+    },
+    {
+        "video_frame": 113,
+        "time": 3.791,
+        "frequency": 0.0,
+        "decibel": -95.45
+    },
+    {
+        "video_frame": 114,
+        "time": 3.801,
+        "frequency": 0.0,
+        "decibel": -96.11
+    },
+    {
+        "video_frame": 114,
+        "time": 3.811,
+        "frequency": 0.0,
+        "decibel": -103.8
+    },
+    {
+        "video_frame": 114,
+        "time": 3.821,
+        "frequency": 0.0,
+        "decibel": -105.35
+    },
+    {
+        "video_frame": 114,
+        "time": 3.831,
+        "frequency": 6029.3,
+        "decibel": -104.48
+    },
+    {
+        "video_frame": 115,
+        "time": 3.841,
+        "frequency": 6029.3,
+        "decibel": -100.97
+    },
+    {
+        "video_frame": 115,
+        "time": 3.851,
+        "frequency": 6029.3,
+        "decibel": -108.34
+    },
+    {
+        "video_frame": 115,
+        "time": 3.861,
+        "frequency": 5986.23,
+        "decibel": -113.6
+    },
+    {
+        "video_frame": 116,
+        "time": 3.871,
+        "frequency": 6072.36,
+        "decibel": -116.18
+    },
+    {
+        "video_frame": 116,
+        "time": 3.881,
+        "frequency": 6029.3,
+        "decibel": -109.97
+    },
+    {
+        "video_frame": 116,
+        "time": 3.891,
+        "frequency": 6029.3,
+        "decibel": -106.55
+    },
+    {
+        "video_frame": 117,
+        "time": 3.901,
+        "frequency": 5986.23,
+        "decibel": -108.87
+    },
+    {
+        "video_frame": 117,
+        "time": 3.911,
+        "frequency": 0.0,
+        "decibel": -112.51
+    },
+    {
+        "video_frame": 117,
+        "time": 3.921,
+        "frequency": 6029.3,
+        "decibel": -111.79
+    },
+    {
+        "video_frame": 117,
+        "time": 3.931,
+        "frequency": 6029.3,
+        "decibel": -108.94
+    },
+    {
+        "video_frame": 118,
+        "time": 3.941,
+        "frequency": 0.0,
+        "decibel": -103.7
+    },
+    {
+        "video_frame": 118,
+        "time": 3.951,
+        "frequency": 0.0,
+        "decibel": -100.95
+    },
+    {
+        "video_frame": 118,
+        "time": 3.961,
+        "frequency": 0.0,
+        "decibel": -106.24
+    },
+    {
+        "video_frame": 119,
+        "time": 3.971,
+        "frequency": 0.0,
+        "decibel": -101.16
+    },
+    {
+        "video_frame": 119,
+        "time": 3.981,
+        "frequency": 0.0,
+        "decibel": -97.67
+    },
+    {
+        "video_frame": 119,
+        "time": 3.991,
+        "frequency": 0.0,
+        "decibel": -93.43
+    },
+    {
+        "video_frame": 120,
+        "time": 4.001,
+        "frequency": 0.0,
+        "decibel": -89.44
+    },
+    {
+        "video_frame": 120,
+        "time": 4.011,
+        "frequency": 0.0,
+        "decibel": -91.19
+    },
+    {
+        "video_frame": 120,
+        "time": 4.021,
+        "frequency": 0.0,
+        "decibel": -91.96
+    },
+    {
+        "video_frame": 120,
+        "time": 4.031,
+        "frequency": 0.0,
+        "decibel": -92.65
+    },
+    {
+        "video_frame": 121,
+        "time": 4.041,
+        "frequency": 0.0,
+        "decibel": -97.84
+    },
+    {
+        "video_frame": 121,
+        "time": 4.051,
+        "frequency": 0.0,
+        "decibel": -95.06
+    },
+    {
+        "video_frame": 121,
+        "time": 4.061,
+        "frequency": 0.0,
+        "decibel": -95.69
+    },
+    {
+        "video_frame": 122,
+        "time": 4.071,
+        "frequency": 5986.23,
+        "decibel": -105.68
+    },
+    {
+        "video_frame": 122,
+        "time": 4.081,
+        "frequency": 5986.23,
+        "decibel": -111.2
+    },
+    {
+        "video_frame": 122,
+        "time": 4.091,
+        "frequency": 0.0,
+        "decibel": -105.15
+    },
+    {
+        "video_frame": 123,
+        "time": 4.101,
+        "frequency": 0.0,
+        "decibel": -99.45
+    },
+    {
+        "video_frame": 123,
+        "time": 4.111,
+        "frequency": 0.0,
+        "decibel": -100.53
+    },
+    {
+        "video_frame": 123,
+        "time": 4.121,
+        "frequency": 0.0,
+        "decibel": -104.05
+    },
+    {
+        "video_frame": 123,
+        "time": 4.131,
+        "frequency": 0.0,
+        "decibel": -105.69
+    },
+    {
+        "video_frame": 124,
+        "time": 4.141,
+        "frequency": 0.0,
+        "decibel": -105.91
+    },
+    {
+        "video_frame": 124,
+        "time": 4.151,
+        "frequency": 0.0,
+        "decibel": -98.26
+    },
+    {
+        "video_frame": 124,
+        "time": 4.161,
+        "frequency": 0.0,
+        "decibel": -93.83
+    },
+    {
+        "video_frame": 125,
+        "time": 4.171,
+        "frequency": 0.0,
+        "decibel": -107.24
+    },
+    {
+        "video_frame": 125,
+        "time": 4.18,
+        "frequency": 6029.3,
+        "decibel": -108.65
+    },
+    {
+        "video_frame": 125,
+        "time": 4.19,
+        "frequency": 5986.23,
+        "decibel": -107.65
+    },
+    {
+        "video_frame": 126,
+        "time": 4.2,
+        "frequency": 5986.23,
+        "decibel": -107.51
+    },
+    {
+        "video_frame": 126,
+        "time": 4.21,
+        "frequency": 5986.23,
+        "decibel": -111.66
+    },
+    {
+        "video_frame": 126,
+        "time": 4.22,
+        "frequency": 0.0,
+        "decibel": -99.4
+    },
+    {
+        "video_frame": 126,
+        "time": 4.23,
+        "frequency": 0.0,
+        "decibel": -97.94
+    },
+    {
+        "video_frame": 127,
+        "time": 4.24,
+        "frequency": 0.0,
+        "decibel": -100.81
+    },
+    {
+        "video_frame": 127,
+        "time": 4.25,
+        "frequency": 0.0,
+        "decibel": -98.01
+    },
+    {
+        "video_frame": 127,
+        "time": 4.26,
+        "frequency": 0.0,
+        "decibel": -95.16
+    },
+    {
+        "video_frame": 128,
+        "time": 4.27,
+        "frequency": 0.0,
+        "decibel": -100.29
+    },
+    {
+        "video_frame": 128,
+        "time": 4.28,
+        "frequency": 6029.3,
+        "decibel": -106.53
+    },
+    {
+        "video_frame": 128,
+        "time": 4.29,
+        "frequency": 0.0,
+        "decibel": -107.63
+    },
+    {
+        "video_frame": 129,
+        "time": 4.3,
+        "frequency": 0.0,
+        "decibel": -104.97
+    },
+    {
+        "video_frame": 129,
+        "time": 4.31,
+        "frequency": 6115.43,
+        "decibel": -116.19
+    },
+    {
+        "video_frame": 129,
+        "time": 4.32,
+        "frequency": 6072.36,
+        "decibel": -114.06
+    },
+    {
+        "video_frame": 129,
+        "time": 4.33,
+        "frequency": 6072.36,
+        "decibel": -111.47
+    },
+    {
+        "video_frame": 130,
+        "time": 4.34,
+        "frequency": 6029.3,
+        "decibel": -109.36
+    },
+    {
+        "video_frame": 130,
+        "time": 4.35,
+        "frequency": 6072.36,
+        "decibel": -111.67
+    },
+    {
+        "video_frame": 130,
+        "time": 4.36,
+        "frequency": 6029.3,
+        "decibel": -111.41
+    },
+    {
+        "video_frame": 131,
+        "time": 4.37,
+        "frequency": 5986.23,
+        "decibel": -108.82
+    },
+    {
+        "video_frame": 131,
+        "time": 4.38,
+        "frequency": 6029.3,
+        "decibel": -114.17
+    },
+    {
+        "video_frame": 131,
+        "time": 4.39,
+        "frequency": 6029.3,
+        "decibel": -107.19
+    },
+    {
+        "video_frame": 132,
+        "time": 4.4,
+        "frequency": 6029.3,
+        "decibel": -107.4
+    },
+    {
+        "video_frame": 132,
+        "time": 4.41,
+        "frequency": 0.0,
+        "decibel": -108.19
+    },
+    {
+        "video_frame": 132,
+        "time": 4.42,
+        "frequency": 0.0,
+        "decibel": -109.54
+    },
+    {
+        "video_frame": 132,
+        "time": 4.43,
+        "frequency": 0.0,
+        "decibel": -105.04
+    },
+    {
+        "video_frame": 133,
+        "time": 4.44,
+        "frequency": 0.0,
+        "decibel": -100.54
+    },
+    {
+        "video_frame": 133,
+        "time": 4.45,
+        "frequency": 6029.3,
+        "decibel": -112.29
+    },
+    {
+        "video_frame": 133,
+        "time": 4.46,
+        "frequency": 0.0,
+        "decibel": -98.66
+    },
+    {
+        "video_frame": 134,
+        "time": 4.47,
+        "frequency": 0.0,
+        "decibel": -89.2
+    },
+    {
+        "video_frame": 134,
+        "time": 4.48,
+        "frequency": 0.0,
+        "decibel": -87.47
+    },
+    {
+        "video_frame": 134,
+        "time": 4.49,
+        "frequency": 0.0,
+        "decibel": -90.27
+    },
+    {
+        "video_frame": 134,
+        "time": 4.5,
+        "frequency": 0.0,
+        "decibel": -96.47
+    },
+    {
+        "video_frame": 135,
+        "time": 4.51,
+        "frequency": 6029.3,
+        "decibel": -109.15
+    },
+    {
+        "video_frame": 135,
+        "time": 4.52,
+        "frequency": 0.0,
+        "decibel": -98.53
+    },
+    {
+        "video_frame": 135,
+        "time": 4.53,
+        "frequency": 0.0,
+        "decibel": -93.31
+    },
+    {
+        "video_frame": 136,
+        "time": 4.54,
+        "frequency": 0.0,
+        "decibel": -100.32
+    },
+    {
+        "video_frame": 136,
+        "time": 4.55,
+        "frequency": 0.0,
+        "decibel": -112.95
+    },
+    {
+        "video_frame": 136,
+        "time": 4.56,
+        "frequency": 6072.36,
+        "decibel": -111.81
+    },
+    {
+        "video_frame": 137,
+        "time": 4.57,
+        "frequency": 0.0,
+        "decibel": -103.43
+    },
+    {
+        "video_frame": 137,
+        "time": 4.58,
+        "frequency": 0.0,
+        "decibel": -98.16
+    },
+    {
+        "video_frame": 137,
+        "time": 4.59,
+        "frequency": 0.0,
+        "decibel": -106.98
+    },
+    {
+        "video_frame": 137,
+        "time": 4.6,
+        "frequency": 6072.36,
+        "decibel": -108.95
+    },
+    {
+        "video_frame": 138,
+        "time": 4.61,
+        "frequency": 6072.36,
+        "decibel": -105.84
+    },
+    {
+        "video_frame": 138,
+        "time": 4.62,
+        "frequency": 6072.36,
+        "decibel": -109.5
+    },
+    {
+        "video_frame": 138,
+        "time": 4.629,
+        "frequency": 6029.3,
+        "decibel": -113.85
+    },
+    {
+        "video_frame": 139,
+        "time": 4.639,
+        "frequency": 0.0,
+        "decibel": -104.82
+    },
+    {
+        "video_frame": 139,
+        "time": 4.649,
+        "frequency": 0.0,
+        "decibel": -109.31
+    },
+    {
+        "video_frame": 139,
+        "time": 4.659,
+        "frequency": 6072.36,
+        "decibel": -112.29
+    },
+    {
+        "video_frame": 140,
+        "time": 4.669,
+        "frequency": 6072.36,
+        "decibel": -109.21
+    },
+    {
+        "video_frame": 140,
+        "time": 4.679,
+        "frequency": 6029.3,
+        "decibel": -114.74
+    },
+    {
+        "video_frame": 140,
+        "time": 4.689,
+        "frequency": 0.0,
+        "decibel": -113.81
+    },
+    {
+        "video_frame": 140,
+        "time": 4.699,
+        "frequency": 6029.3,
+        "decibel": -110.28
+    },
+    {
+        "video_frame": 141,
+        "time": 4.709,
+        "frequency": 6072.36,
+        "decibel": -105.98
+    },
+    {
+        "video_frame": 141,
+        "time": 4.719,
+        "frequency": 6072.36,
+        "decibel": -111.46
+    },
+    {
+        "video_frame": 141,
+        "time": 4.729,
+        "frequency": 6072.36,
+        "decibel": -106.95
+    },
+    {
+        "video_frame": 142,
+        "time": 4.739,
+        "frequency": 0.0,
+        "decibel": -106.2
+    },
+    {
+        "video_frame": 142,
+        "time": 4.749,
+        "frequency": 0.0,
+        "decibel": -97.77
+    },
+    {
+        "video_frame": 142,
+        "time": 4.759,
+        "frequency": 0.0,
+        "decibel": -102.51
+    },
+    {
+        "video_frame": 143,
+        "time": 4.769,
+        "frequency": 0.0,
+        "decibel": -112.06
+    },
+    {
+        "video_frame": 143,
+        "time": 4.779,
+        "frequency": 0.0,
+        "decibel": -102.5
+    },
+    {
+        "video_frame": 143,
+        "time": 4.789,
+        "frequency": 0.0,
+        "decibel": -96.14
+    },
+    {
+        "video_frame": 143,
+        "time": 4.799,
+        "frequency": 0.0,
+        "decibel": -94.52
+    },
+    {
+        "video_frame": 144,
+        "time": 4.809,
+        "frequency": 0.0,
+        "decibel": -96.06
+    },
+    {
+        "video_frame": 144,
+        "time": 4.819,
+        "frequency": 0.0,
+        "decibel": -98.06
+    },
+    {
+        "video_frame": 144,
+        "time": 4.829,
+        "frequency": 0.0,
+        "decibel": -98.5
+    },
+    {
+        "video_frame": 145,
+        "time": 4.839,
+        "frequency": 0.0,
+        "decibel": -102.02
+    },
+    {
+        "video_frame": 145,
+        "time": 4.849,
+        "frequency": 0.0,
+        "decibel": -109.78
+    },
+    {
+        "video_frame": 145,
+        "time": 4.859,
+        "frequency": 6029.3,
+        "decibel": -110.4
+    },
+    {
+        "video_frame": 146,
+        "time": 4.869,
+        "frequency": 6029.3,
+        "decibel": -112.67
+    },
+    {
+        "video_frame": 146,
+        "time": 4.879,
+        "frequency": 6029.3,
+        "decibel": -110.16
+    },
+    {
+        "video_frame": 146,
+        "time": 4.889,
+        "frequency": 6029.3,
+        "decibel": -108.8
+    },
+    {
+        "video_frame": 146,
+        "time": 4.899,
+        "frequency": 6072.36,
+        "decibel": -115.06
+    },
+    {
+        "video_frame": 147,
+        "time": 4.909,
+        "frequency": 6029.3,
+        "decibel": -111.83
+    },
+    {
+        "video_frame": 147,
+        "time": 4.919,
+        "frequency": 6029.3,
+        "decibel": -117.23
+    },
+    {
+        "video_frame": 147,
+        "time": 4.929,
+        "frequency": 6029.3,
+        "decibel": -109.84
+    },
+    {
+        "video_frame": 148,
+        "time": 4.939,
+        "frequency": 6072.36,
+        "decibel": -115.58
+    },
+    {
+        "video_frame": 148,
+        "time": 4.949,
+        "frequency": 0.0,
+        "decibel": -121.35
+    },
+    {
+        "video_frame": 148,
+        "time": 4.959,
+        "frequency": 0.0,
+        "decibel": -118.78
+    },
+    {
+        "video_frame": 149,
+        "time": 4.969,
+        "frequency": 6115.43,
+        "decibel": -119.5
+    },
+    {
+        "video_frame": 149,
+        "time": 4.979,
+        "frequency": 5943.16,
+        "decibel": -114.08
+    },
+    {
+        "video_frame": 149,
+        "time": 4.989,
+        "frequency": 5986.23,
+        "decibel": -106.37
+    },
+    {
+        "video_frame": 149,
+        "time": 4.999,
+        "frequency": 0.0,
+        "decibel": -100.4
+    },
+    {
+        "video_frame": 150,
+        "time": 5.009,
+        "frequency": 0.0,
+        "decibel": -94.3
+    },
+    {
+        "video_frame": 150,
+        "time": 5.019,
+        "frequency": 0.0,
+        "decibel": -95.99
+    },
+    {
+        "video_frame": 150,
+        "time": 5.029,
+        "frequency": 0.0,
+        "decibel": -107.85
+    },
+    {
+        "video_frame": 151,
+        "time": 5.039,
+        "frequency": 4780.37,
+        "decibel": -120.32
+    },
+    {
+        "video_frame": 151,
+        "time": 5.049,
+        "frequency": 5986.23,
+        "decibel": -105.1
+    },
+    {
+        "video_frame": 151,
+        "time": 5.059,
+        "frequency": 0.0,
+        "decibel": -97.89
+    },
+    {
+        "video_frame": 152,
+        "time": 5.068,
+        "frequency": 0.0,
+        "decibel": -105.09
+    },
+    {
+        "video_frame": 152,
+        "time": 5.078,
+        "frequency": 5986.23,
+        "decibel": -106.95
+    },
+    {
+        "video_frame": 152,
+        "time": 5.088,
+        "frequency": 5986.23,
+        "decibel": -110.18
+    },
+    {
+        "video_frame": 152,
+        "time": 5.098,
+        "frequency": 0.0,
+        "decibel": -109.56
+    },
+    {
+        "video_frame": 153,
+        "time": 5.108,
+        "frequency": 0.0,
+        "decibel": -105.84
+    },
+    {
+        "video_frame": 153,
+        "time": 5.118,
+        "frequency": 0.0,
+        "decibel": -109.78
+    },
+    {
+        "video_frame": 153,
+        "time": 5.128,
+        "frequency": 6072.36,
+        "decibel": -110.36
+    },
+    {
+        "video_frame": 154,
+        "time": 5.138,
+        "frequency": 6029.3,
+        "decibel": -111.62
+    },
+    {
+        "video_frame": 154,
+        "time": 5.148,
+        "frequency": 6029.3,
+        "decibel": -101.95
+    },
+    {
+        "video_frame": 154,
+        "time": 5.158,
+        "frequency": 6029.3,
+        "decibel": -109.82
+    },
+    {
+        "video_frame": 155,
+        "time": 5.168,
+        "frequency": 0.0,
+        "decibel": -105.92
+    },
+    {
+        "video_frame": 155,
+        "time": 5.178,
+        "frequency": 0.0,
+        "decibel": -109.61
+    },
+    {
+        "video_frame": 155,
+        "time": 5.188,
+        "frequency": 6029.3,
+        "decibel": -108.99
+    },
+    {
+        "video_frame": 155,
+        "time": 5.198,
+        "frequency": 5986.23,
+        "decibel": -106.05
+    },
+    {
+        "video_frame": 156,
+        "time": 5.208,
+        "frequency": 5986.23,
+        "decibel": -102.91
+    },
+    {
+        "video_frame": 156,
+        "time": 5.218,
+        "frequency": 0.0,
+        "decibel": -103.19
+    },
+    {
+        "video_frame": 156,
+        "time": 5.228,
+        "frequency": 0.0,
+        "decibel": -101.54
+    },
+    {
+        "video_frame": 157,
+        "time": 5.238,
+        "frequency": 0.0,
+        "decibel": -106.1
+    },
+    {
+        "video_frame": 157,
+        "time": 5.248,
+        "frequency": 5986.23,
+        "decibel": -109.88
+    },
+    {
+        "video_frame": 157,
+        "time": 5.258,
+        "frequency": 5986.23,
+        "decibel": -104.17
+    },
+    {
+        "video_frame": 158,
+        "time": 5.268,
+        "frequency": 5943.16,
+        "decibel": -109.81
+    },
+    {
+        "video_frame": 158,
+        "time": 5.278,
+        "frequency": 0.0,
+        "decibel": -99.88
+    },
+    {
+        "video_frame": 158,
+        "time": 5.288,
+        "frequency": 0.0,
+        "decibel": -99.77
+    },
+    {
+        "video_frame": 158,
+        "time": 5.298,
+        "frequency": 5943.16,
+        "decibel": -110.5
+    },
+    {
+        "video_frame": 159,
+        "time": 5.308,
+        "frequency": 6029.3,
+        "decibel": -108.52
+    },
+    {
+        "video_frame": 159,
+        "time": 5.318,
+        "frequency": 0.0,
+        "decibel": -96.55
+    },
+    {
+        "video_frame": 159,
+        "time": 5.328,
+        "frequency": 0.0,
+        "decibel": -89.17
+    },
+    {
+        "video_frame": 160,
+        "time": 5.338,
+        "frequency": 0.0,
+        "decibel": -91.27
+    },
+    {
+        "video_frame": 160,
+        "time": 5.348,
+        "frequency": 0.0,
+        "decibel": -94.79
+    },
+    {
+        "video_frame": 160,
+        "time": 5.358,
+        "frequency": 0.0,
+        "decibel": -100.39
+    },
+    {
+        "video_frame": 161,
+        "time": 5.368,
+        "frequency": 0.0,
+        "decibel": -107.12
+    },
+    {
+        "video_frame": 161,
+        "time": 5.378,
+        "frequency": 6029.3,
+        "decibel": -106.36
+    },
+    {
+        "video_frame": 161,
+        "time": 5.388,
+        "frequency": 0.0,
+        "decibel": -106.24
+    },
+    {
+        "video_frame": 161,
+        "time": 5.398,
+        "frequency": 6029.3,
+        "decibel": -105.36
+    },
+    {
+        "video_frame": 162,
+        "time": 5.408,
+        "frequency": 6029.3,
+        "decibel": -102.24
+    },
+    {
+        "video_frame": 162,
+        "time": 5.418,
+        "frequency": 6029.3,
+        "decibel": -107.27
+    },
+    {
+        "video_frame": 162,
+        "time": 5.428,
+        "frequency": 0.0,
+        "decibel": -107.46
+    },
+    {
+        "video_frame": 163,
+        "time": 5.438,
+        "frequency": 0.0,
+        "decibel": -96.59
+    },
+    {
+        "video_frame": 163,
+        "time": 5.448,
+        "frequency": 0.0,
+        "decibel": -93.58
+    },
+    {
+        "video_frame": 163,
+        "time": 5.458,
+        "frequency": 0.0,
+        "decibel": -92.79
+    },
+    {
+        "video_frame": 164,
+        "time": 5.468,
+        "frequency": 0.0,
+        "decibel": -90.22
+    },
+    {
+        "video_frame": 164,
+        "time": 5.478,
+        "frequency": 0.0,
+        "decibel": -88.09
+    },
+    {
+        "video_frame": 164,
+        "time": 5.488,
+        "frequency": 0.0,
+        "decibel": -88.64
+    },
+    {
+        "video_frame": 164,
+        "time": 5.498,
+        "frequency": 0.0,
+        "decibel": -91.84
+    },
+    {
+        "video_frame": 165,
+        "time": 5.507,
+        "frequency": 0.0,
+        "decibel": -93.14
+    },
+    {
+        "video_frame": 165,
+        "time": 5.517,
+        "frequency": 0.0,
+        "decibel": -99.98
+    },
+    {
+        "video_frame": 165,
+        "time": 5.527,
+        "frequency": 6201.56,
+        "decibel": -112.63
+    },
+    {
+        "video_frame": 166,
+        "time": 5.537,
+        "frequency": 6072.36,
+        "decibel": -117.75
+    },
+    {
+        "video_frame": 166,
+        "time": 5.547,
+        "frequency": 0.0,
+        "decibel": -96.36
+    },
+    {
+        "video_frame": 166,
+        "time": 5.557,
+        "frequency": 0.0,
+        "decibel": -90.08
+    },
+    {
+        "video_frame": 167,
+        "time": 5.567,
+        "frequency": 0.0,
+        "decibel": -91.64
+    },
+    {
+        "video_frame": 167,
+        "time": 5.577,
+        "frequency": 0.0,
+        "decibel": -111.19
+    },
+    {
+        "video_frame": 167,
+        "time": 5.587,
+        "frequency": 6029.3,
+        "decibel": -111.32
+    },
+    {
+        "video_frame": 167,
+        "time": 5.597,
+        "frequency": 0.0,
+        "decibel": -96.83
+    },
+    {
+        "video_frame": 168,
+        "time": 5.607,
+        "frequency": 0.0,
+        "decibel": -89.19
+    },
+    {
+        "video_frame": 168,
+        "time": 5.617,
+        "frequency": 0.0,
+        "decibel": -90.01
+    },
+    {
+        "video_frame": 168,
+        "time": 5.627,
+        "frequency": 0.0,
+        "decibel": -93.06
+    },
+    {
+        "video_frame": 169,
+        "time": 5.637,
+        "frequency": 0.0,
+        "decibel": -97.81
+    },
+    {
+        "video_frame": 169,
+        "time": 5.647,
+        "frequency": 6244.63,
+        "decibel": -116.52
+    },
+    {
+        "video_frame": 169,
+        "time": 5.657,
+        "frequency": 0.0,
+        "decibel": -115.66
+    },
+    {
+        "video_frame": 170,
+        "time": 5.667,
+        "frequency": 0.0,
+        "decibel": -100.09
+    },
+    {
+        "video_frame": 170,
+        "time": 5.677,
+        "frequency": 0.0,
+        "decibel": -93.1
+    },
+    {
+        "video_frame": 170,
+        "time": 5.687,
+        "frequency": 0.0,
+        "decibel": -92.68
+    },
+    {
+        "video_frame": 170,
+        "time": 5.697,
+        "frequency": 0.0,
+        "decibel": -95.23
+    },
+    {
+        "video_frame": 171,
+        "time": 5.707,
+        "frequency": 0.0,
+        "decibel": -97.87
+    },
+    {
+        "video_frame": 171,
+        "time": 5.717,
+        "frequency": 0.0,
+        "decibel": -102.34
+    },
+    {
+        "video_frame": 171,
+        "time": 5.727,
+        "frequency": 0.0,
+        "decibel": -106.11
+    },
+    {
+        "video_frame": 172,
+        "time": 5.737,
+        "frequency": 0.0,
+        "decibel": -109.94
+    },
+    {
+        "video_frame": 172,
+        "time": 5.747,
+        "frequency": 6115.43,
+        "decibel": -111.85
+    },
+    {
+        "video_frame": 172,
+        "time": 5.757,
+        "frequency": 5986.23,
+        "decibel": -121.5
+    },
+    {
+        "video_frame": 173,
+        "time": 5.767,
+        "frequency": 7019.82,
+        "decibel": -115.91
+    },
+    {
+        "video_frame": 173,
+        "time": 5.777,
+        "frequency": 6029.3,
+        "decibel": -116.54
+    },
+    {
+        "video_frame": 173,
+        "time": 5.787,
+        "frequency": 6416.89,
+        "decibel": -112.96
+    },
+    {
+        "video_frame": 173,
+        "time": 5.797,
+        "frequency": 0.0,
+        "decibel": -110.16
+    },
+    {
+        "video_frame": 174,
+        "time": 5.807,
+        "frequency": 0.0,
+        "decibel": -106.11
+    },
+    {
+        "video_frame": 174,
+        "time": 5.817,
+        "frequency": 0.0,
+        "decibel": -108.83
+    },
+    {
+        "video_frame": 174,
+        "time": 5.827,
+        "frequency": 5986.23,
+        "decibel": -108.9
+    },
+    {
+        "video_frame": 175,
+        "time": 5.837,
+        "frequency": 5986.23,
+        "decibel": -111.82
+    },
+    {
+        "video_frame": 175,
+        "time": 5.847,
+        "frequency": 6029.3,
+        "decibel": -113.6
+    },
+    {
+        "video_frame": 175,
+        "time": 5.857,
+        "frequency": 0.0,
+        "decibel": -106.25
+    },
+    {
+        "video_frame": 176,
+        "time": 5.867,
+        "frequency": 0.0,
+        "decibel": -105.73
+    },
+    {
+        "video_frame": 176,
+        "time": 5.877,
+        "frequency": 5986.23,
+        "decibel": -113.42
+    },
+    {
+        "video_frame": 176,
+        "time": 5.887,
+        "frequency": 0.0,
+        "decibel": -112.86
+    },
+    {
+        "video_frame": 176,
+        "time": 5.897,
+        "frequency": 6072.36,
+        "decibel": -111.77
+    },
+    {
+        "video_frame": 177,
+        "time": 5.907,
+        "frequency": 6072.36,
+        "decibel": -118.0
+    },
+    {
+        "video_frame": 177,
+        "time": 5.917,
+        "frequency": 6029.3,
+        "decibel": -112.34
+    },
+    {
+        "video_frame": 177,
+        "time": 5.927,
+        "frequency": 43.07,
+        "decibel": -112.46
+    },
+    {
+        "video_frame": 178,
+        "time": 5.937,
+        "frequency": 0.0,
+        "decibel": -101.13
+    },
+    {
+        "video_frame": 178,
+        "time": 5.946,
+        "frequency": 6029.3,
+        "decibel": -117.24
+    },
+    {
+        "video_frame": 178,
+        "time": 5.956,
+        "frequency": 6029.3,
+        "decibel": -112.31
+    },
+    {
+        "video_frame": 178,
+        "time": 5.966,
+        "frequency": 6072.36,
+        "decibel": -110.16
+    },
+    {
+        "video_frame": 179,
+        "time": 5.976,
+        "frequency": 0.0,
+        "decibel": -107.95
+    },
+    {
+        "video_frame": 179,
+        "time": 5.986,
+        "frequency": 6072.36,
+        "decibel": -108.39
+    },
+    {
+        "video_frame": 179,
+        "time": 5.996,
+        "frequency": 0.0,
+        "decibel": -109.14
+    },
+    {
+        "video_frame": 180,
+        "time": 6.006,
+        "frequency": 0.0,
+        "decibel": -101.49
+    },
+    {
+        "video_frame": 180,
+        "time": 6.016,
+        "frequency": 0.0,
+        "decibel": -93.7
+    },
+    {
+        "video_frame": 180,
+        "time": 6.026,
+        "frequency": 0.0,
+        "decibel": -88.53
+    },
+    {
+        "video_frame": 181,
+        "time": 6.036,
+        "frequency": 0.0,
+        "decibel": -89.44
+    },
+    {
+        "video_frame": 181,
+        "time": 6.046,
+        "frequency": 0.0,
+        "decibel": -97.75
+    },
+    {
+        "video_frame": 181,
+        "time": 6.056,
+        "frequency": 0.0,
+        "decibel": -105.98
+    },
+    {
+        "video_frame": 181,
+        "time": 6.066,
+        "frequency": 0.0,
+        "decibel": -111.24
+    },
+    {
+        "video_frame": 182,
+        "time": 6.076,
+        "frequency": 6072.36,
+        "decibel": -119.61
+    },
+    {
+        "video_frame": 182,
+        "time": 6.086,
+        "frequency": 6029.3,
+        "decibel": -110.78
+    },
+    {
+        "video_frame": 182,
+        "time": 6.096,
+        "frequency": 6072.36,
+        "decibel": -107.97
+    },
+    {
+        "video_frame": 183,
+        "time": 6.106,
+        "frequency": 0.0,
+        "decibel": -102.09
+    },
+    {
+        "video_frame": 183,
+        "time": 6.116,
+        "frequency": 0.0,
+        "decibel": -95.55
+    },
+    {
+        "video_frame": 183,
+        "time": 6.126,
+        "frequency": 0.0,
+        "decibel": -97.64
+    },
+    {
+        "video_frame": 184,
+        "time": 6.136,
+        "frequency": 0.0,
+        "decibel": -108.66
+    },
+    {
+        "video_frame": 184,
+        "time": 6.146,
+        "frequency": 0.0,
+        "decibel": -105.37
+    },
+    {
+        "video_frame": 184,
+        "time": 6.156,
+        "frequency": 0.0,
+        "decibel": -95.42
+    },
+    {
+        "video_frame": 184,
+        "time": 6.166,
+        "frequency": 0.0,
+        "decibel": -111.7
+    },
+    {
+        "video_frame": 185,
+        "time": 6.176,
+        "frequency": 6029.3,
+        "decibel": -108.13
+    },
+    {
+        "video_frame": 185,
+        "time": 6.186,
+        "frequency": 0.0,
+        "decibel": -101.75
+    },
+    {
+        "video_frame": 185,
+        "time": 6.196,
+        "frequency": 0.0,
+        "decibel": -97.19
+    },
+    {
+        "video_frame": 186,
+        "time": 6.206,
+        "frequency": 6029.3,
+        "decibel": -114.05
+    },
+    {
+        "video_frame": 186,
+        "time": 6.216,
+        "frequency": 6029.3,
+        "decibel": -115.31
+    },
+    {
+        "video_frame": 186,
+        "time": 6.226,
+        "frequency": 0.0,
+        "decibel": -102.58
+    },
+    {
+        "video_frame": 187,
+        "time": 6.236,
+        "frequency": 0.0,
+        "decibel": -97.94
+    },
+    {
+        "video_frame": 187,
+        "time": 6.246,
+        "frequency": 6029.3,
+        "decibel": -112.3
+    },
+    {
+        "video_frame": 187,
+        "time": 6.256,
+        "frequency": 0.0,
+        "decibel": -104.7
+    },
+    {
+        "video_frame": 187,
+        "time": 6.266,
+        "frequency": 0.0,
+        "decibel": -98.81
+    },
+    {
+        "video_frame": 188,
+        "time": 6.276,
+        "frequency": 0.0,
+        "decibel": -95.94
+    },
+    {
+        "video_frame": 188,
+        "time": 6.286,
+        "frequency": 0.0,
+        "decibel": -95.54
+    },
+    {
+        "video_frame": 188,
+        "time": 6.296,
+        "frequency": 0.0,
+        "decibel": -104.97
+    },
+    {
+        "video_frame": 189,
+        "time": 6.306,
+        "frequency": 5986.23,
+        "decibel": -112.49
+    },
+    {
+        "video_frame": 189,
+        "time": 6.316,
+        "frequency": 6029.3,
+        "decibel": -108.11
+    },
+    {
+        "video_frame": 189,
+        "time": 6.326,
+        "frequency": 6029.3,
+        "decibel": -115.01
+    },
+    {
+        "video_frame": 190,
+        "time": 6.336,
+        "frequency": 5986.23,
+        "decibel": -108.94
+    },
+    {
+        "video_frame": 190,
+        "time": 6.346,
+        "frequency": 0.0,
+        "decibel": -100.19
+    },
+    {
+        "video_frame": 190,
+        "time": 6.356,
+        "frequency": 0.0,
+        "decibel": -95.59
+    },
+    {
+        "video_frame": 190,
+        "time": 6.366,
+        "frequency": 0.0,
+        "decibel": -97.28
+    },
+    {
+        "video_frame": 191,
+        "time": 6.376,
+        "frequency": 0.0,
+        "decibel": -98.93
+    },
+    {
+        "video_frame": 191,
+        "time": 6.385,
+        "frequency": 0.0,
+        "decibel": -115.77
+    }
+]

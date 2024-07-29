@@ -1,0 +1,16 @@
+{
+    "Pipeline Sections": {
+        "YW from 259.79m to 259.79m": {
+            "counts": {
+                "轻度": 0,
+                "中度": 0,
+                "重度": 1,
+                "未知": 0
+            },
+            "length": 0.0,
+            "severity": "重度"
+        }
+    },
+    "Structural Score": 0,
+    "Functional Score": 0
+}
