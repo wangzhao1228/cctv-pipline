@@ -53,7 +53,10 @@ if __name__ == "__main__":
     audio_path = "D:/workspaceTech/ultralytics/main/res/0525/0525.wav"
 
     video_paths = [video_path, video_path, video_path]
-    model_path = 'D:/workspaceTech/ultralytics/weights/obb/17/best.pt'
+
+    # model_path = 'D:/workspaceTech/yolov10/weights/0627/best.pt'
+    model_path = 'D:/workspaceTech/ultralytics/weights/obb/0904/best.pt'
+
     ocr_model_path = "D:/workspaceTech/ultralytics/OCR/models/recognition/ch_PP-OCRv4_rec_infer"
     output_path = 'D:/workspaceTech/ultralytics/main/res/0525/0525_structure_tracked.mp4'
 
@@ -63,7 +66,7 @@ if __name__ == "__main__":
             'QN': 0.4, 'YW': 0.4, 'GL': 0.8, 'FS': 0.8, 'CJ': 0.4, 'ZJ': 0.8, 'ZG': 0.4,
             'LGL': 0.4, 'MGL': 0.4, 'SGL': 0.4, 'SSGL': 0.4, 'LFS': 0.4, 'MFS': 0.4,
             'SFS': 0.4, 'SSFS': 0.4, 'SZ': 0.4, 'FM': 0.4, 'TL': 0.4, 'WZ': 0.4,
-            'PS': 0.4, 'ZC': 0.8
+            'PS': 0.4, 'ZC': 0.6
         }
 
     # 获取合并后的所有帧数据

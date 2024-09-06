@@ -230,7 +230,7 @@ class DefectInfoProcessor:
         self.severity_calculator = DefectSeverityCalculator(video_width, video_height)
         # 新增缺陷类型分类
         self.functional_defects = {'YW', 'WZ', 'TL', 'QN', 'CJ', 'PS', 'FM', 'SZ', 'ZG', 'ZJ'}
-        self.structural_defects = {'SSFS', 'SFS', 'MFS', 'LFS', 'SSGL', 'SGL', 'MGL', 'LGL'}
+        self.structural_defects = {'SSFS', 'SFS', 'MFS', 'LFS', 'SSGL', 'SGL', 'MGL', 'LGL', 'ZC'}
 
     def segment_and_update_defect_ids(self, all_frame_data, max_segment_gap=7):
         last_frames = defaultdict(lambda: defaultdict(int))
@@ -886,8 +886,9 @@ class PipelineDefectEvaluator:
         return resolved_defects
 
     def merge_selective_defects(self):
-        target_defect_types = ['GL', 'FS']
+        target_defect_types = ['GL', 'FS', 'ZC']
         priority_map = {
+            'ZC_轻度': 7,
             'GL_重度': 6, 'FS_重度': 5,
             'GL_中度': 4, 'FS_中度': 3,
             'GL_轻度': 2, 'FS_轻度': 1
@@ -970,7 +971,7 @@ class PipelineDefectEvaluator:
                 break  # 如果没有新的未处理缺陷，则结束循环
 
         # Combine processed defects with non-target type defects
-        self.defect_infos = processed_defects +unprocessed_defects + [d for d in self.defect_infos if d['类型'] not in target_defect_types]
+        self.defect_infos = processed_defects + unprocessed_defects + [d for d in self.defect_infos if d['类型'] not in target_defect_types]
 
         # Handle special defect types like QN
         self.merge_calculate_qn_severity()
