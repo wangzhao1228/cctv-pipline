@@ -232,44 +232,48 @@ class DefectInfoProcessor:
         self.functional_defects = {'YW', 'WZ', 'TL', 'QN', 'CJ', 'PS', 'FM', 'SZ', 'ZG', 'ZJ'}
         self.structural_defects = {'SSFS', 'SFS', 'MFS', 'LFS', 'SSGL', 'SGL', 'MGL', 'LGL', 'ZC'}
 
-    def segment_and_update_defect_ids(self, all_frame_data, max_segment_gap=7):
-        last_frames = defaultdict(lambda: defaultdict(int))
-        segment_counters = defaultdict(lambda: defaultdict(int))
+    # 根据缺陷的ID对缺陷进行分块
+    def segment_and_update_defect_ids(self, all_frame_data, max_segment_gap=5):
+        #字典用于存储每一种缺陷的最后一帧和ID
+        defect_dicts={}
 
         for frame_id, frame_data in all_frame_data.items():
             for defect_type, defect in frame_data.defects.items():
                 new_rectangles = {}
 
+                # 确保每种缺陷类型都有对应的记录
+                if defect_type not in defect_dicts:
+                    defect_dicts[defect_type] = {'last_frame': frame_id, 'last_defect_id': 1}
                 for defect_id, dimensions in defect.rectangles.items():
-                    try:
-                        # 尝试直接将defect_id转换为整数
-                        defect_id_int = int(defect_id)
-                    except ValueError:
-                        # 如果失败，则假定defect_id为浮点数字符串，并转换为整数
-                        defect_id_int = int(float(defect_id))
+                    # 检查当前帧与最后记录帧的间隔
+                    if frame_id - defect_dicts[defect_type]['last_frame'] >= max_segment_gap:
+                        # 如果间隔过大，认为是新的缺陷开始，增加缺陷ID
+                        defect_dicts[defect_type]['last_defect_id'] += 1
 
-                    # 计算新的defect_id，如果需要的话
-                    if frame_id - last_frames[defect_type][defect_id_int] > max_segment_gap:
-                        segment_counters[defect_type][defect_id_int] += 1
+                    # 更新最后一帧为当前帧
+                    defect_dicts[defect_type]['last_frame'] = frame_id
 
-                    # 更新最后一帧记录
-                    last_frames[defect_type][defect_id_int] = frame_id
-
-                    # 生成新的defect_id
-                    new_defect_id = defect_id_int * 10000 + segment_counters[defect_type][defect_id_int]
-                    new_rectangles[str(new_defect_id)] = dimensions  # 将新的defect_id转换回字符串，如果需要
+                    # 生成新的缺陷ID
+                    new_defect_id = defect_dicts[defect_type]['last_defect_id']
+                    new_rectangles[str(new_defect_id)] = dimensions  # 将新的defect_id转换回字符串
 
                 # 更新当前帧的缺陷数据
                 defect.rectangles = new_rectangles
 
-    def filter_frames(self, all_frame_data, min_frames=5, max_gap=5, segment_gap=10):
+        return defect_dicts
+
+
+    # 滤除不合适的framedata来构造defect_infos
+    def filter_frames(self, all_frame_data, min_frames=3, max_gap=5, segment_gap=10):
         # temp of all_frame_data about same defect_id same defect_type
         temp_defect_frame = defaultdict(lambda: defaultdict(list))
         # vaild of all_frame_data
         valid_frames = defaultdict(lambda: defaultdict(list))
 
+        # 连续的段落被分配了相同的ID
         self.segment_and_update_defect_ids(all_frame_data)
 
+        # 滤除段落中小于min_frames的缺陷
         for frame_id, frame_data in all_frame_data.items():
             for defect_type, defect in frame_data.defects.items():
                 for defect_id, dimensions in defect.rectangles.items():
@@ -291,6 +295,7 @@ class DefectInfoProcessor:
             for defect_id, frames in defects.items():
                 print(f"  Defect ID: {defect_id}, Frames: {frames}")
 
+        # 从all_frame_data 总帧中删除不可用缺陷
         self.delete_unactivateframe_data(all_frame_data, valid_frames)
 
     def delete_unactivateframe_data(self, all_frame_data, valid_defects):
@@ -353,8 +358,8 @@ class DefectInfoProcessor:
                         defect_id = int(defect_id)  # 转换为整数
                     except ValueError:
                         defect_id= int(float(defect_id))  # 处理浮点数字符串
-                    new_defect_id = severity_id_map[defect_type] + defect_id
-                    key = f"{base_defect_type}_{new_defect_id}"
+                    # new_defect_id = severity_id_map[defect_type] + defect_id
+                    key = f"{base_defect_type}_{defect_id}"
                     if key not in self.active_defects:
                         self.active_defects[key] = {
                             "last_frame": frame_id,
@@ -788,6 +793,12 @@ class PipelineDefectEvaluator:
         self.pipeline_structure_sections = {}
         self.functional_defect_counts = defaultdict(int)
         self.has_ld = any(d['类型'] == 'LD' for d in self.defect_infos)  # 检查是否存在漏点
+        self.priority_map = {
+            'ZC_轻度': 7,
+            'GL_重度': 6, 'FS_重度': 5,
+            'GL_中度': 4, 'FS_中度': 3,
+            'GL_轻度': 2, 'FS_轻度': 1
+        }
 
     def print_defect_info(self):
         for defect_info in self.defect_infos:
@@ -894,84 +905,48 @@ class PipelineDefectEvaluator:
             'GL_轻度': 2, 'FS_轻度': 1
         }
         unprocessed_defects = list(filter(lambda d: d['类型'] in target_defect_types, self.defect_infos))
+        unprocessed_defects.sort(key=lambda x: (x['起始位置'], -priority_map[f"{x['类型']}_{x['严重程度']}"]))
         processed_defects = []
-        loopindex = 0
 
-        while unprocessed_defects and loopindex<50:
-            print('循环中')
-            loopindex += 1
-            unprocessed_defects.sort(key=lambda x: (x['起始位置'], x['结束位置'], -priority_map[f"{x['类型']}_{x['严重程度']}"]))
-            current_defect = None
-            new_unprocessed_defects = []
-            should_add_current_defect = True  # 添加一个标志来决定是否应该添加current_defect到processed_defects
+        for current in unprocessed_defects:
+            if not processed_defects:
+                processed_defects.append(current)
+                continue
 
-            for defect in unprocessed_defects:
-                if not current_defect:
-                    current_defect = defect
-                    continue
+            last = processed_defects[-1]
 
-                if defect['起始位置'] == current_defect['起始位置'] and defect['结束位置'] == current_defect[
-                    '结束位置']:
-                    # 比较两个完全重叠的缺陷的严重程度
-                    if priority_map[f"{defect['类型']}_{defect['严重程度']}"] >= priority_map[
-                        f"{current_defect['类型']}_{current_defect['严重程度']}"]:
-                        # 保留更严重的缺陷
-                        current_defect = defect
-                    continue  # 跳过后面的重叠检查，继续下一个循环
-
-                if defect['起始位置'] < current_defect['结束位置']:  # 有重叠
-                    if priority_map[f"{defect['类型']}_{defect['严重程度']}"] > priority_map[f"{current_defect['类型']}_{current_defect['严重程度']}"]:
-                        final_defect = current_defect.copy()
-                        if defect['起始位置'] == current_defect['起始位置']:
-                            # 直接使用 defect 覆盖 current_defect 的起始部分
-                            middle_part = defect.copy()
-                            if middle_part and middle_part not in new_unprocessed_defects:
-                                new_unprocessed_defects.append(middle_part)
-                            current_defect = middle_part
-                        else:
-                            if defect['起始位置'] > current_defect['起始位置']:
-                                earlier_part = current_defect.copy()
-                                earlier_part['结束位置'] = defect['起始位置']
-                                if earlier_part and earlier_part not in new_unprocessed_defects:
-                                    new_unprocessed_defects.append(earlier_part)
-                                current_defect = earlier_part  # 继续使用未受影响的部分作为当前缺陷
-
-                            middle_part = defect.copy()
-                            if middle_part and middle_part not in new_unprocessed_defects:
-                                new_unprocessed_defects.append(middle_part)
-
-                        if defect['结束位置'] < final_defect['结束位置']:
-                            later_part = final_defect.copy()
-                            later_part['起始位置'] = defect['结束位置']
-                            if later_part and later_part not in new_unprocessed_defects:
-                                new_unprocessed_defects.append(later_part)
-
-                    else:
-                        if defect['结束位置'] > current_defect['结束位置']:
-                            later_part = defect.copy()
-                            later_part['起始位置'] = current_defect['结束位置']
-                            if later_part not in new_unprocessed_defects and later_part not in processed_defects:
-                                new_unprocessed_defects.append(later_part)
-                            # 再次检查当前缺陷的剩余部分是否需要进一步处理
-                            if current_defect and current_defect not in new_unprocessed_defects and current_defect not in processed_defects:
-                                new_unprocessed_defects.append(current_defect)
-
-                else:
-                    if should_add_current_defect and current_defect and current_defect not in processed_defects and current_defect not in new_unprocessed_defects:  # 确保最后一个缺陷被添加
-                        processed_defects.append(current_defect)
-                    current_defect = defect
-
-            # # 确保添加最后的current_defect
-            # if current_defect and current_defect not in processed_defects and current_defect not in new_unprocessed_defects:
-            #     processed_defects.append(current_defect)
-
-            if new_unprocessed_defects:
-                unprocessed_defects = new_unprocessed_defects+processed_defects
+            if current['起始位置']>last['结束位置']:
+                # 没有重叠
+                processed_defects.append(current)
             else:
-                break  # 如果没有新的未处理缺陷，则结束循环
+                # 存在重叠
+                if priority_map[f"{current['类型']}_{current['严重程度']}"]> priority_map[f"{last['类型']}_{last['严重程度']}"]:
+                    #当前缺陷严重程度更高
+                    if current['起始位置']>last['起始位置']:
+                        #分割last缺陷，保留前半部分
+                        earlier_part = last.copy()
+                        earlier_part['结束位置'] = current['起始位置']
+                        processed_defects[-1] = earlier_part
+                        processed_defects.append(current)
+                    else:
+                        #current完全覆盖last的开始部分
+                        processed_defects[-1] = current
+
+                    # 更新current以可能包括last的延伸部分
+                    if current['结束位置'] < last['结束位置']:
+                        # 如果当前缺陷延伸超过last，更新当前去诶按的开始位置并在循环外添加
+                        later_part = last.copy()
+                        later_part['起始位置'] = current['结束位置']
+                        processed_defects.append(later_part)
+                else:
+                    #当前缺陷严重程度不高，或相同
+                    if current['结束位置'] > last['结束位置']:
+                        #如果当前缺陷延伸超过last，更新当前缺陷的开始位置并在循环外添加
+                        current['起始位置'] = last['结束位置']
+                        processed_defects.append(current)
 
         # Combine processed defects with non-target type defects
-        self.defect_infos = processed_defects + unprocessed_defects + [d for d in self.defect_infos if d['类型'] not in target_defect_types]
+        self.defect_infos = processed_defects + [d for d in self.defect_infos if d['类型'] not in target_defect_types]
 
         # Handle special defect types like QN
         self.merge_calculate_qn_severity()

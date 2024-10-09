@@ -1,30 +1,20 @@
 {
     "Pipeline Sections": {
-        "GL from 260.07m to 260.19m": {
+        "FS from 259.79m to 260.07m": {
             "counts": {
                 "轻度": 0,
-                "中度": 1,
+                "中度": 2,
                 "重度": 0,
                 "未知": 0
             },
-            "length": 0.12000000000000455,
+            "length": 0.2799999999999727,
             "severity": "中度"
         }
     },
     "Functional Sections": {
-        "YW from 259.79891632373113m to 259.95569831834575m": {
+        "YW from 260.05m to 260.05m": {
             "counts": {
-                "轻度": 0,
-                "中度": 1,
-                "重度": 0,
-                "未知": 0
-            },
-            "length": 0.15678199461461872,
-            "severity": "中度"
-        },
-        "YW from 260.14m to 260.14m": {
-            "counts": {
-                "轻度": 1,
+                "轻度": 2,
                 "中度": 0,
                 "重度": 0,
                 "未知": 0
@@ -33,6 +23,6 @@
             "severity": "轻度"
         }
     },
-    "Structural Score": 1.500000000000142,
-    "Functional Score": 3.5
+    "Structural Score": 3.499999999999858,
+    "Functional Score": 2.0
 }
